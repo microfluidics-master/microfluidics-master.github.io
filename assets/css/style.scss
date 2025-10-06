@@ -1,1 +1,9 @@
+---
+---
 @import "minima";
+
+.lang-switch {
+  text-align: right;
+  margin: 0.5rem 0 1rem;
+  a { text-decoration: none; }
+}

@@ -1,25 +1,30 @@
 title: "Master in Microfluidics & Miniaturization"
-description: >-
-  Interdisciplinary program at Sorbonne Université / PSL (IPGG): microfluidics, soft matter, and applications.
-url: "https://microfluidics-master.github.io"   # ← change to your chosen URL
-baseurl: ""                                     # for project sites, set to "/REPO-NAME"
-#theme: minima
+description: "Interdisciplinary program at Sorbonne Université / PSL (IPGG): microfluidics, soft matter, and applications."
+url: "https://microfluidics-master.github.io"
 remote_theme: jekyll/minima
+# theme: minima
 
-
-# Navigation for Minima
-header_pages:
-  - index.md
-  - presentation.md
-  - degree-information.md
-  - contact.md
-
-# Plugins
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: "en"
+    values:
+      lang: "en"
+  - scope:
+      path: "fr"
+    values:
+      lang: "fr"
+
+header_pages:
+  - en/index.md
+  - en/presentation.md
+  - en/degree-information.md
+  - en/contact.md
 
 markdown: kramdown
 highlighter: rouge
@@ -27,6 +32,3 @@ highlighter: rouge
 author:
   name: "Microfluidics Master Program"
   email: "contact@example.edu"
-
-# Optional analytics
-# google_analytics: G-XXXXXXX

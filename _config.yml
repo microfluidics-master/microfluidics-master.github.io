@@ -4,6 +4,8 @@ description: >-
 url: "https://microfluidics-master.github.io"   # ← change to your chosen URL
 baseurl: ""                                     # for project sites, set to "/REPO-NAME"
 theme: minima
+remote_theme: jekyll/minima
+
 
 # Navigation for Minima
 header_pages:
@@ -14,6 +16,7 @@ header_pages:
 
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap

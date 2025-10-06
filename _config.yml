@@ -1,0 +1,29 @@
+title: "Master in Microfluidics & Miniaturization"
+description: >-
+  Interdisciplinary program at Sorbonne Université / PSL (IPGG): microfluidics, soft matter, and applications.
+url: "https://microfluidics-master.github.io"   # ← change to your chosen URL
+baseurl: ""                                     # for project sites, set to "/REPO-NAME"
+theme: minima
+
+# Navigation for Minima
+header_pages:
+  - index.md
+  - presentation.md
+  - degree-information.md
+  - contact.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+highlighter: rouge
+
+author:
+  name: "Microfluidics Master Program"
+  email: "contact@example.edu"
+
+# Optional analytics
+# google_analytics: G-XXXXXXX

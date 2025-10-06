@@ -2,9 +2,9 @@ title: "Master in Microfluidics & Miniaturization"
 description: "Interdisciplinary program at Sorbonne Université / PSL (IPGG)"
 url: "https://microfluidics-master.github.io"
 
-# Use ONLY ONE of the next two lines — keep this one:
-#remote_theme: jekyll/minima
- theme: minima   # <-- leave commented OUT
+# Choose ONE (keep remote_theme OR theme)
+remote_theme: jekyll/minima
+# theme: minima
 
 plugins:
   - jekyll-remote-theme
@@ -13,8 +13,14 @@ plugins:
   - jekyll-sitemap
 
 defaults:
-  - scope: { path: "en" }  values: { lang: "en" }
-  - scope: { path: "fr" }  values: { lang: "fr" }
+  - scope:
+      path: "en"
+    values:
+      lang: "en"
+  - scope:
+      path: "fr"
+    values:
+      lang: "fr"
 
 header_pages:
   - en/index.md

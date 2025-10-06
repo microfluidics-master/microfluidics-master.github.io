@@ -3,8 +3,8 @@ description: "Interdisciplinary program at Sorbonne Université / PSL (IPGG)"
 url: "https://microfluidics-master.github.io"
 
 # Use ONLY ONE of the next two lines — keep this one:
-remote_theme: jekyll/minima
-# theme: minima   # <-- leave commented OUT
+#remote_theme: jekyll/minima
+ theme: minima   # <-- leave commented OUT
 
 plugins:
   - jekyll-remote-theme

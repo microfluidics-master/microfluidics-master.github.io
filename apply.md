@@ -4,9 +4,8 @@ title: Apply
 permalink: /apply/
 ---
 
-# Applications
 
-## English
+### English
 
 Applications for the next academic year are now open.  
 Contact: **m2microfluidique@gmail.com**
@@ -30,7 +29,7 @@ Please send the following documents (ideally combined into a single PDF file):
 
 ![Microfluidic droplet sorting device at IPGG](/assets/images/microfluidic.gif)
 
-## Français
+### Français
 
 Les candidatures pour la prochaine rentrée sont désormais ouvertes.  
 Contact : **m2microfluidique@gmail.com**

@@ -1,44 +1,13 @@
 <header class="site-header" role="banner">
-  <div class="wrapper flex-header">
+  <div class="wrapper">
     <!-- Left: site title -->
     <a class="site-title" rel="author"
        href="{% if page.lang == 'fr' %}{{ '/fr/' | relative_url }}{% else %}{{ '/en/' | relative_url }}{% endif %}">
       {{ site.title | escape }}
     </a>
 
-    <!-- Right: nav + toggle grouped -->
-    <div class="nav-and-toggle">
-      <nav class="site-nav" aria-label="Main Navigation">
-        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-        <label for="nav-trigger" aria-label="Toggle navigation">
-          <span class="menu-icon">
-            <svg viewBox="0 0 18 15" width="18" height="15" aria-hidden="true" focusable="false">
-              <path d="M18,1.5v2H0v-2H18z M18,6.5v2H0v-2H18z M18,11.5v2H0v-2H18z"></path>
-            </svg>
-          </span>
-        </label>
-
-        <div class="trigger">
-          {% assign current_lang = page.lang | default: 'en' %}
-          {% assign lang_pages = site.pages | where: 'lang', current_lang %}
-          {% assign visible = "" | split: "" %}
-          {% for p in lang_pages %}
-            {% unless p.nav_exclude %}
-              {% assign visible = visible | push: p %}
-            {% endunless %}
-          {% endfor %}
-          {% assign items = visible | sort: 'nav_weight' %}
-
-          {% for p in items %}
-            {% if p.title and p.url %}
-              {% assign active = (p.url == page.url) %}
-              <a class="page-link{% if active %} active{% endif %}" href="{{ p.url | relative_url }}">{{ p.title }}</a>
-            {% endif %}
-          {% endfor %}
-        </div>
-      </nav>
-
-      {%- comment -%} Language toggle {%- endcomment -%}
+    <nav class="site-nav" aria-label="Main Navigation">
+      {%- comment -%} Build counterpart URL for the language toggle {%- endcomment -%}
       {% assign current_lang = page.lang | default: 'en' %}
       {% if current_lang == 'en' %}
         {% assign alt_lang = 'fr' %}
@@ -52,9 +21,44 @@
         {% assign alt_url = expected_prefix %}
       {% endunless %}
 
-      <a class="lang-toggle" href="{{ alt_url | relative_url }}">
+      <!-- MOBILE toggle: shown above the hamburger -->
+      <a class="page-link lang-toggle lang-toggle--mobile" href="{{ alt_url | relative_url }}">
         {% if current_lang == 'en' %}Français{% else %}English{% endif %}
       </a>
-    </div>
+
+      <!-- Minima hamburger -->
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+      <label for="nav-trigger" aria-label="Toggle navigation">
+        <span class="menu-icon">
+          <svg viewBox="0 0 18 15" width="18" height="15" aria-hidden="true" focusable="false">
+            <path d="M18,1.5v2H0v-2H18z M18,6.5v2H0v-2H18z M18,11.5v2H0v-2H18z"></path>
+          </svg>
+        </span>
+      </label>
+
+      <!-- Menu links + DESKTOP toggle at the end -->
+      <div class="trigger">
+        {% assign lang_pages = site.pages | where: 'lang', current_lang %}
+        {% assign visible = "" | split: "" %}
+        {% for p in lang_pages %}
+          {% unless p.nav_exclude %}
+            {% assign visible = visible | push: p %}
+          {% endunless %}
+        {% endfor %}
+        {% assign items = visible | sort: 'nav_weight' %}
+
+        {% for p in items %}
+          {% if p.title and p.url %}
+            {% assign active = (p.url == page.url) %}
+            <a class="page-link{% if active %} active{% endif %}" href="{{ p.url | relative_url }}">{{ p.title }}</a>
+          {% endif %}
+        {% endfor %}
+
+        <!-- DESKTOP toggle: inline, after "Contact" -->
+        <a class="page-link lang-toggle lang-toggle--desktop" href="{{ alt_url | relative_url }}">
+          {% if current_lang == 'en' %}Français{% else %}English{% endif %}
+        </a>
+      </div>
+    </nav>
   </div>
 </header>

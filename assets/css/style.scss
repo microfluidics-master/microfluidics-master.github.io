@@ -1,34 +1,32 @@
 @import "minima";
-
-/* Keep title on left, nav+toggle on right */
-.flex-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+/* Desktop: show toggle inline at the end of the menu (after Contact) */
+.lang-toggle--desktop {
+  display: inline-block;
+  margin-left: 1.25rem; /* spacing between last page and toggle */
 }
 
-/* Group nav and toggle so they stay together on the right */
-.nav-and-toggle {
-  display: flex;
-  align-items: center;
-  gap: 1rem;               /* space between menu and toggle */
+/* Hide the mobile toggle on desktop */
+.lang-toggle--mobile {
+  display: none;
 }
 
-/* Right-aligned button look */
+/* Make the toggle look like a neat button */
 .lang-toggle {
   font-weight: 600;
   border: 1px solid rgba(0,0,0,.2);
   border-radius: .375rem;
   padding: .25rem .75rem;
-  text-decoration: none;
   white-space: nowrap;
+  text-decoration: none;
   background: #fdfdfd;
 }
 .lang-toggle:hover { background: rgba(0,0,0,.05); }
 
-/* Mobile: stack neatly */
+/* Mobile behavior: show the top toggle, hide the inline one, add vertical spacing above hamburger */
 @media screen and (max-width: 600px) {
-  .flex-header { flex-wrap: wrap; gap: .5rem; }
-  .nav-and-toggle { width: 100%; justify-content: space-between; }
-  .lang-toggle { order: 2; }
+  .lang-toggle--desktop { display: none; }
+  .lang-toggle--mobile {
+    display: inline-block;
+    margin-bottom: 0.75rem; /* vertical space between toggle and page list */
+  }
 }

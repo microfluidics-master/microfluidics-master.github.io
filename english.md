@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Master in Microfluidics et Miniaturization
+title: English
 permalink: /english/
 ---
 

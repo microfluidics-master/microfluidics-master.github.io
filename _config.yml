@@ -8,8 +8,8 @@ remote-theme: jekyll/minima
 # Navigation for Minima
 header_pages:
   - index.md
-  - presentation.md
-  - degree-information.md
+  - francais.md
+  - english.md
   - contact.md
 
 # Plugins

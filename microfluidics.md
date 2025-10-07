@@ -33,14 +33,14 @@ Microfluidics is both a **science** (studying fluid behavior in micro-channels) 
 
 Below are a few carefully chosen introductory videos (open science/edu content). You can remove or reorder as you wish.
 
-### 1) Introduction to a Microfluidics course (graduate level)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1i3I1tArr80"
-title="Microfluidics - Introduction to the course" frameborder="0" allowfullscreen></iframe>
+### 1) Aventures Microfluidique #1 : La physique microscopique
+<iframe width="560" height="315" src="https://youtu.be/oPJfXSb5QYw?si=Flop291TWVBkag8G"
+title="Aventures Microfluidique #1 : La physique microscopique" frameborder="0" allowfullscreen></iframe>
 
-### 2) Microfluidics and the elusive Lab-on-a-Chip (general audience)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NAESOEjcYfc"
-title="Microfluidics and the Elusive Lab-on-a-Chip" frameborder="0" allowfullscreen></iframe>
+### 2) Aventures Microfluidique #2 : Créer un monde micrométrique
+<iframe width="560" height="315" src="https://youtu.be/7mptrk-Pmts?si=w-BD4JQ9zzPxD4m5"
+title="Aventures Microfluidique #2 : Créer un monde micrométrique" frameborder="0" allowfullscreen></iframe>
 
-### 3) Fundamentals (webinar series)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uv2jXZPutcw"
-title="Microfluidics 101 - Fundamentals" frameborder="0" allowfullscreen></iframe>
+### 3) Aventures Microfluidique #3 : Les puces microfluidiques
+<iframe width="560" height="315" src="https://youtu.be/wyWGcL3_d00?si=DKjbpNiY6fygSyPf"
+title="Aventures Microfluidique #3 : Les puces microfluidiques" frameborder="0" allowfullscreen></iframe>

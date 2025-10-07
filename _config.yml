@@ -20,7 +20,9 @@ paginate: 5
 # Navigation links (for the Minima header)
 header_pages:
   - index.md
-  - about.md
+  - english.md
+  - french.md
+  - apply.md
 
 # Author info
 author:

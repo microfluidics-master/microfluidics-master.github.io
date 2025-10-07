@@ -15,6 +15,22 @@ Microfluidics is both a **science** (studying fluid behavior in micro-channels) 
 
 ---
 
+## Videos
+
+Below are a few carefully chosen introductory videos (open science/edu content). You can remove or reorder as you wish.
+
+### 1) Aventures Microfluidique #1 : La physique microscopique
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oPJfXSb5QYw?si=Eo1lcLlTpA8tE805"
+title="Aventures Microfluidique #1 : La physique microscopique" frameborder="0" allowfullscreen></iframe>
+
+### 2) Aventures Microfluidique #2 : Créer un monde micrométrique
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7mptrk-Pmts?si=nfzwQrLkR8puyvBY"
+title="Aventures Microfluidique #2 : Créer un monde micrométrique" frameborder="0" allowfullscreen></iframe>
+
+### 3) Aventures Microfluidique #3 : Les puces microfluidiques
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wyWGcL3_d00?si=Mgqs3AjsX5smsE5x"
+title="Aventures Microfluidique #3 : Les puces microfluidiques" frameborder="0" allowfullscreen></iframe>
+
 ## Links
 
 - [Physics of Complex Systems Master](https://physics-complex-systems.fr)  
@@ -28,19 +44,3 @@ Microfluidics is both a **science** (studying fluid behavior in micro-channels) 
 - [Microscale Affairs – IPGG seminar series](https://microscaleaffairs.wixsite.com)
 
 ---
-
-## Videos
-
-Below are a few carefully chosen introductory videos (open science/edu content). You can remove or reorder as you wish.
-
-### 1) Aventures Microfluidique #1 : La physique microscopique
-<iframe width="560" height="315" src="https://youtu.be/oPJfXSb5QYw?si=Flop291TWVBkag8G"
-title="Aventures Microfluidique #1 : La physique microscopique" frameborder="0" allowfullscreen></iframe>
-
-### 2) Aventures Microfluidique #2 : Créer un monde micrométrique
-<iframe width="560" height="315" src="https://youtu.be/7mptrk-Pmts?si=w-BD4JQ9zzPxD4m5"
-title="Aventures Microfluidique #2 : Créer un monde micrométrique" frameborder="0" allowfullscreen></iframe>
-
-### 3) Aventures Microfluidique #3 : Les puces microfluidiques
-<iframe width="560" height="315" src="https://youtu.be/wyWGcL3_d00?si=DKjbpNiY6fygSyPf"
-title="Aventures Microfluidique #3 : Les puces microfluidiques" frameborder="0" allowfullscreen></iframe>

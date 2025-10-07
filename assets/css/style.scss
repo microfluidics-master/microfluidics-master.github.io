@@ -6,4 +6,15 @@
   a { text-decoration: none; }
 }
 
+/* Language toggle styling */
+.lang-toggle {
+  font-weight: 600;
+  margin-left: 0.75rem;
+  border: 1px solid rgba(0,0,0,.12);
+  border-radius: .375rem;
+  padding: .2rem .5rem;
+}
+
 .site-nav .page-link.active { text-decoration: underline; }
+
+

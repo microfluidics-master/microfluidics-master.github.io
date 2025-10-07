@@ -1,7 +1,6 @@
 ---
-layout: default
-title: Welcome
+layout: home
+title: "Microfluidics Master (M2)"
 ---
 
-# Hello 👋
-This is my Jekyll site running on GitHub Pages!
+Welcome! This site uses the Minima theme. Browse the pages in the header.

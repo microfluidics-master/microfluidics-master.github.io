@@ -3,3 +3,51 @@
 .site-title {
   display: none;
 }
+
+/* === Branding Colors === */
+$brand-color: #0097A7;           /* Teal for links/buttons */
+$brand-color-dark: #00205B;      /* Sorbonne deep blue */
+$brand-color-light: #F2F6FA;     /* Light blue-gray */
+$highlight-color: #E2231A;       /* Sorbonne red */
+
+/* === Links === */
+a {
+  color: $brand-color;
+  text-decoration: none;
+}
+a:hover {
+  color: $brand-color-dark;
+  text-decoration: underline;
+}
+
+/* === Headings === */
+h1, h2, h3 {
+  color: $brand-color-dark;
+}
+
+/* === Footer === */
+.site-footer {
+  background: $brand-color-light;
+  border-top: 3px solid $brand-color;
+  color: #333;
+}
+
+/* === Buttons === */
+button, .btn {
+  background-color: $brand-color;
+  color: white;
+  border-radius: 4px;
+  padding: 0.4rem 0.8rem;
+  border: none;
+}
+button:hover, .btn:hover {
+  background-color: $brand-color-dark;
+}
+
+/* === Callout box === */
+.highlight {
+  background: #fff7d6; /* pale yellow */
+  padding: 0.75rem;
+  border-left: 5px solid $highlight-color;
+  margin: 1rem 0;
+}

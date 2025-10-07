@@ -2,7 +2,7 @@
 title: "Jacques Fattaccioli"
 description: >-
   Researcher, educator and microfluidics enthusiast — this site shares projects, teaching and publications.
-url: "https://mesobiolab.github.io"  # ← change USERNAME
+url: "https://microfluidics-master.github.io"  # ← change USERNAME
 baseurl: ""                        # for project site, set to "/REPO-NAME"
 remote_theme: jekyll/minima
 

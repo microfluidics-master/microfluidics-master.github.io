@@ -1,7 +1,6 @@
 
 title: "Master in Microfluidics and Miniaturization"
-description: >-
-  Researcher, educator and microfluidics enthusiast — this site shares projects, teaching and publications.
+description: "Researcher, educator and microfluidics enthusiast — this site shares projects, teaching and publications"
 url: "https://microfluidics-master.github.io"  # ← change USERNAME
 baseurl: ""                        # for project site, set to "/REPO-NAME"
 remote_theme: jekyll/minima
@@ -25,8 +24,8 @@ header_pages:
 
 # Author info
 author:
-  name: Contact us
+  name: Microfluidics Program Team
   email: m2microfluidique@gmail.com
 
 # Google Analytics (optional)
-# google_analytics: G-XXXXXXX
+google_analytics: G-BH0Q5E5Z2

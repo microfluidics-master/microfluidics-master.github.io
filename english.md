@@ -3,7 +3,7 @@ layout: page
 title: English
 permalink: /english/
 ---
-# 🎓 Master 2 in Microfluidics
+# Master 2 in Microfluidics
 
 The **Master in Microfluidics** (Master 2) is an **interdisciplinary program** supported by the [Institut Pierre-Gilles de Gennes (IPGG)](https://www.ipgg.fr/).  
 It is oriented towards **innovation, research, and industrial applications**, and offers one of the fastest ways to connect with the **start-up ecosystem** in the field of microfluidics.
@@ -15,7 +15,7 @@ This program is part of two internationally recognized Master's degrees:
 
 ---
 
-## 🌟 Why join the Microfluidics program?
+## Why join the Microfluidics program?
 
 The program provides a **unique combination** of advanced scientific training, cutting-edge research experience, and exposure to innovation.  
 Two key strengths define the student experience:
@@ -25,13 +25,13 @@ Two key strengths define the student experience:
 
 Students are trained to think like scientists and engineers while solving real-world problems. They benefit from:
 
-- 👩‍🏫 A faculty of internationally recognized experts  
-- 🔬 Access to state-of-the-art research platforms  
-- 🚀 A strong culture of innovation through collaborations with start-ups and incubators  
+- A faculty of internationally recognized experts  
+- Access to state-of-the-art research platforms  
+- A strong culture of innovation through collaborations with start-ups and incubators  
 
 ---
 
-## 📍 A unique location
+## A unique location
 
 Student life takes place in the **heart of Paris**, within the Latin Quarter – a historical hub of French science.  
 The IPGG campus is within walking distance of world-class institutions such as:
@@ -43,63 +43,63 @@ The IPGG campus is within walking distance of world-class institutions such as:
 - ESPCI Paris  
 
 This geographical concentration fosters **constant interdisciplinary exchange**.  
-Paris itself is a **thriving multicultural hub of innovation** and research, offering direct access to **Université Paris-Saclay, Université Paris Cité, and innovation clusters**.
+Paris itself is a **thriving multicultural hub of innovation** and research, offering direct access to **Université Paris-Saclay, Université Paris Cité, and innovation clusters**.  
 
 ---
 
-## 📚 Curriculum Overview
+## Curriculum Overview
 
 The program runs from **September to June/July** and is worth **60 ECTS**.
 
-- 📘 **Courses (30 ECTS)** → Core & specialized classes in physics, chemistry, biology, and engineering.  
-- 🧪 **Research Project (3 ECTS)** → A first-semester project in an IPGG lab.  
-- 📄 **Master’s Thesis & Internship (30 ECTS)** → A 5–6 month research internship, defended before a jury.  
+- **Courses (30 ECTS)** → Core & specialized classes in physics, chemistry, biology, and engineering.  
+- **Research Project (3 ECTS)** → A first-semester project in an IPGG lab.  
+- **Master’s Thesis & Internship (30 ECTS)** → A 5–6 month research internship, defended before a jury.  
 
 ### Core Topics
 
-**🛠 Technology**  
+**Technology**  
 - Micro- and nanofabrication: silicon, PDMS, plastics, flexible electronics  
 - Surface functionalization (molecular & biomolecular methods)  
 - Characterization: microscopy, flow cytometry, rheology, single-molecule imaging  
 
-**🌊 Physics**  
+**Physics**  
 - Hydrodynamics at the microscale, nanofluidics  
 - Capillarity, wetting, soft matter & interfaces  
 
-**🔬 Lab-on-a-chip**  
+**Lab-on-a-chip**  
 - Continuous & segmented flow chemistry  
 - Bioassays & analytical microdevices  
 
-**🧬 Biology & Biochemistry**  
+**Biology & Biochemistry**  
 - Droplet-based biochemistry & single-cell analysis  
 - Single-cell & collective cell behavior in microdevices  
 - Organ-on-chip approaches  
 
 ---
 
-## 🧪 Hands-on Training
+## Hands-on Training
 
 From the very start, students receive **intensive lab training** on the IPGG technological platform, learning to **design, fabricate, and manipulate microfluidic devices**.  
 
 This foundation is reinforced by:  
-- A **short research project** in semester 1.  
-- A **Master’s thesis (30 ECTS)** in semester 2, carried out in academia or industry, in France or abroad.  
+- A short research project in semester 1.  
+- A Master’s thesis (30 ECTS) in semester 2, carried out in academia or industry, in France or abroad.  
 
 ---
 
-## 🚀 Innovation & Industry Connection
+## Innovation & Industry Connection
 
 Microfluidics is a driver of **deep-tech entrepreneurship**.  
 The program benefits from strong ties with innovation clusters:  
 
-- **PC’Up incubator**  
-- **Tremplin Carnot IPGG TT office**  
+- PC’Up incubator  
+- Tremplin Carnot IPGG TT office  
 
-Students meet **start-ups and industrial partners** during regular events, and many companies have directly emerged from IPGG labs.  
+Students meet start-ups and industrial partners during regular events, and many companies have directly emerged from IPGG labs.  
 
 ---
 
-## 👩‍🏫 Faculty
+## Faculty
 
 Teaching is provided by **leading researchers** from across Paris, including:  
 
@@ -109,14 +109,14 @@ Teaching is provided by **leading researchers** from across Paris, including:
 - **ESPCI Paris**: N. Brémond, D. Quéré…  
 - **Chimie ParisTech**: M. Tatoulian, C. Guyon, M. Zhang…  
 - **École Normale Supérieure**: M. Morel, J. Fattaccioli  
-- **Université Paris Cité**: A. Lindner  
+- **Université Paris Cité / Paris Diderot**: A. Lindner  
+- **Université Paris-Saclay**: F. Restagno  
 
 ---
 
-## 🔗 Useful Links
+## Useful Links
 
-- 🌐 Official website: [microfluidics-master.fr](http://microfluidics-master.fr)  
-- 🏛 Institut Pierre-Gilles de Gennes: [ipgg.fr](https://www.ipgg.fr/)  
+- Official website: [microfluidics-master.fr](http://microfluidics-master.fr)  
+- Institut Pierre-Gilles de Gennes: [ipgg.fr](https://www.ipgg.fr/)  
 
 ---
-

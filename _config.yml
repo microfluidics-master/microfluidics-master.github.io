@@ -27,6 +27,7 @@ header_pages:
 minima:
   nav_pages:
     - index.md
+    = microfluidics.md
     - english.md
     - francais.md
     - contact.md

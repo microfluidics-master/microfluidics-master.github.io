@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Français
+title: Francais
 permalink: /francais/
 ---
 

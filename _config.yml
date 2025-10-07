@@ -24,6 +24,13 @@ header_pages:
 - french.md
 - apply.md
 
+minima:
+  nav_pages:
+    - index.md
+    - english.md
+    - french.md
+    - apply.md
+
 # Author info
 author:
   name: Microfluidics Program Team

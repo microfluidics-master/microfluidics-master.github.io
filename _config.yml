@@ -12,8 +12,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-minima:
-  skin: auto
 
 header_pages:
   - index.md

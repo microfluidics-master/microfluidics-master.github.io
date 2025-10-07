@@ -1,11 +1,12 @@
 <header class="site-header" role="banner">
-  <div class="wrapper">
-    <!-- Site title links to the language home -->
+  <div class="wrapper flex-header">
+    <!-- Left: site title -->
     <a class="site-title" rel="author"
        href="{% if page.lang == 'fr' %}{{ '/fr/' | relative_url }}{% else %}{{ '/en/' | relative_url }}{% endif %}">
       {{ site.title | escape }}
     </a>
 
+    <!-- Center: navigation -->
     <nav class="site-nav" aria-label="Main Navigation">
       <input type="checkbox" id="nav-trigger" class="nav-trigger" />
       <label for="nav-trigger" aria-label="Toggle navigation">
@@ -16,29 +17,8 @@
         </span>
       </label>
 
-      {% comment %}
-        Figure out counterpart URL for the language toggle.
-      {% endcomment %}
-      {% assign current_lang = page.lang | default: 'en' %}
-      {% if current_lang == 'en' %}
-        {% assign alt_lang = 'fr' %}
-        {% assign alt_url = page.url | replace_first: '/en', '/fr' %}
-      {% else %}
-        {% assign alt_lang = 'en' %}
-        {% assign alt_url = page.url | replace_first: '/fr', '/en' %}
-      {% endif %}
-      {% assign expected_prefix = '/' | append: alt_lang | append: '/' %}
-      {% unless alt_url contains expected_prefix %}
-        {% assign alt_url = expected_prefix %}
-      {% endunless %}
-
       <div class="trigger">
-        {%- comment -%}
-          Language-aware menu:
-          - only pages with matching lang
-          - skip nav_exclude: true
-          - sort by nav_weight
-        {%- endcomment -%}
+        {% assign current_lang = page.lang | default: 'en' %}
         {% assign lang_pages = site.pages | where: 'lang', current_lang %}
         {% assign visible = "" | split: "" %}
         {% for p in lang_pages %}
@@ -54,12 +34,25 @@
             <a class="page-link{% if active %} active{% endif %}" href="{{ p.url | relative_url }}">{{ p.title }}</a>
           {% endif %}
         {% endfor %}
-
-        <!-- Language toggle button -->
-        <a class="page-link lang-toggle" href="{{ alt_url | relative_url }}">
-          {% if current_lang == 'en' %}Français{% else %}English{% endif %}
-        </a>
       </div>
     </nav>
+
+    <!-- Right: language toggle -->
+    {% assign current_lang = page.lang | default: 'en' %}
+    {% if current_lang == 'en' %}
+      {% assign alt_lang = 'fr' %}
+      {% assign alt_url = page.url | replace_first: '/en', '/fr' %}
+    {% else %}
+      {% assign alt_lang = 'en' %}
+      {% assign alt_url = page.url | replace_first: '/fr', '/en' %}
+    {% endif %}
+    {% assign expected_prefix = '/' | append: alt_lang | append: '/' %}
+    {% unless alt_url contains expected_prefix %}
+      {% assign alt_url = expected_prefix %}
+    {% endunless %}
+
+    <a class="lang-toggle" href="{{ alt_url | relative_url }}">
+      {% if current_lang == 'en' %}Français{% else %}English{% endif %}
+    </a>
   </div>
 </header>

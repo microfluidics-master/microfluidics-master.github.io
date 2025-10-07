@@ -5,7 +5,6 @@ permalink: /fr/presentation/
 nav_weight: 20
 ---
 
-{% include lang-switch.html %}
 
 ## Un programme intrinsèquement interdisciplinaire
 

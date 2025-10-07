@@ -5,7 +5,6 @@ permalink: /en/presentation/
 nav_weight: 30
 ---
 
-{% include lang-switch.html %}
 
 ## Interdisciplinary by design
 

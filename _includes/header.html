@@ -21,7 +21,7 @@
         {% assign alt_url = expected_prefix %}
       {% endunless %}
 
-      <!-- MOBILE toggle: shown above the hamburger -->
+      <!-- MOBILE toggle: shown to the left of hamburger -->
       <a class="page-link lang-toggle lang-toggle--mobile" href="{{ alt_url | relative_url }}">
         {% if current_lang == 'en' %}FR{% else %}EN{% endif %}
       </a>

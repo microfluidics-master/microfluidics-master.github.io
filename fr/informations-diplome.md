@@ -5,7 +5,6 @@ permalink: /fr/informations-diplome/
 nav_weight: 30
 ---
 
-{% include lang-switch.html %}
 
 **Charge de travail** : 60 ECTS de début septembre à fin juin/juillet (selon le stage/mémoire).
 

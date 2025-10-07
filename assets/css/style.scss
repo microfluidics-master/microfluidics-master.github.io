@@ -1,6 +1,16 @@
 
 @import "minima";
 
+/* Fix mobile header positioning */
+.site-header {
+  position: relative;
+  z-index: 10;
+}
+
+.page-content {
+  padding-top: 20px;
+}
+
 /* Language toggle styling */
 .lang-toggle {
   font-weight: 500;
@@ -31,13 +41,19 @@
   }
 }
 
-/* Mobile: show toggle above hamburger */
+/* Mobile: show toggle to the left of hamburger */
 @media screen and (max-width: 599px) {
+  .site-nav {
+    position: relative;
+  }
+  
   .lang-toggle--mobile {
     display: inline-block;
     position: absolute;
     right: 50px; /* Position to the left of hamburger */
     top: 9px;
+    font-size: 14px;
+    padding: 3px 10px;
   }
   
   .lang-toggle--desktop {
@@ -47,10 +63,41 @@
   .nav-spacer {
     display: none;
   }
+  
+  /* Ensure nav trigger works properly */
+  .nav-trigger {
+    display: none;
+  }
+  
+  .nav-trigger:checked ~ .trigger {
+    display: block;
+    padding-bottom: 5px;
+  }
+  
+  .trigger {
+    clear: both;
+    display: none;
+  }
+  
+  .menu-icon {
+    display: block;
+    float: right;
+    width: 36px;
+    height: 26px;
+    line-height: 0;
+    padding-top: 10px;
+    text-align: center;
+    cursor: pointer;
+  }
 }
 
 /* Optional: highlight active page in menu */
 .page-link.active {
   font-weight: 600;
   color: #111;
+}
+
+/* Hide the lang-switch div that appears in page content */
+.lang-switch {
+  display: none;
 }

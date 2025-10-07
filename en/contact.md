@@ -5,7 +5,6 @@ permalink: /en/contact/
 nav_weight: 40
 ---
 
-{% include lang-switch.html %}
 
 For application inquiries, email **Program Office**: <contact@example.edu>
 

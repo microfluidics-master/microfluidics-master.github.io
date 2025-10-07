@@ -5,7 +5,6 @@ permalink: /fr/
 nav_weight: 10
 ---
 
-{% include lang-switch.html %}
 
 Bienvenue sur le **Master Microfluidique & Miniaturisation** (M2). Le programme combine **microfluidique**, **matière molle** et **applications** à l’interface de la physique, de la chimie et des sciences du vivant.
 

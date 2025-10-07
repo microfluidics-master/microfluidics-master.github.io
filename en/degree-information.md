@@ -5,7 +5,7 @@ permalink: /en/degree-information/
 nav_weight: 20
 ---
 
-{% include lang-switch.html %}
+
 
 **Workload**: 60 ECTS from early September to late June/July (depending on internship/thesis).
 

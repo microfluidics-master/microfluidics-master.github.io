@@ -5,7 +5,6 @@ permalink: /en/
 nav_weight: 10
 ---
 
-{% include lang-switch.html %}
 
 Welcome to the **Microfluidics & Miniaturization** Master program (M2). The program combines **microfluidics**, **soft matter**, and **applications** at the interface of physics, chemistry, and the life sciences.
 

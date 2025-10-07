@@ -5,7 +5,6 @@ permalink: /fr/contact/
 nav_weight: 40
 ---
 
-{% include lang-switch.html %}
 
 Pour toute question relative aux candidatures : **Bureau du programme** — <contact@example.edu>
 

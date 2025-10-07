@@ -15,7 +15,7 @@ plugins:
 # Build settings
 markdown: kramdown
 highlighter: rouge
-paginate: 5
+paginate: 6
 
 minima:
   nav_pages:

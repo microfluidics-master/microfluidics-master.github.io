@@ -1,32 +1,25 @@
-title: "Master in Microfluidics and Miniaturization"
-description: >-
-  Master in Microfluidics and Miniaturization
-url: "https://microfluidics-master.github.io"  # ← change USERNAME
-baseurl: ""                        # for project site, set to "/REPO-NAME"
-theme: minima
+title: "Master in Microfluidics & Miniaturization"
+description: "Interdisciplinary program at Sorbonne Université / PSL (IPGG)"
+url: "https://microfluidics-master.github.io"
+baseurl: ""   # keep "" for a user/org site
 
-# SEO and sitemap
+remote_theme: jekyll/minima
+# theme: minima  # leave commented; don't use both
+
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
-paginate: 5
+minima:
+  skin: auto
 
-# Navigation links (for the Minima header)
 header_pages:
   - index.md
-  - english.md
   - francais.md
-  - about.md
+  - english.md
+  - contact.md
 
-# Author info
-author:
-  name: Jacques Fattaccioli
-  email: jacques.fattaccioli@ens.psl.eu
-
-# Google Analytics (optional)
- google_analytics: G-BH0Q5E5Z28
+markdown: kramdown
+highlighter: rouge

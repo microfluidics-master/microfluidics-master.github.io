@@ -9,9 +9,11 @@ permalink: /microfluidics/
 Microfluidics is both a **science** (studying fluid behavior in micro-channels) and a **technology** for designing lab-on-chip devices across physics, chemistry, and biology. It also serves as a versatile **mesoscale framework** to engineer, measure and control complex flows.
 
 **Example — droplet sorting by fluorescence:** a microfluidic device routes droplets based on their fluorescence signal, reflecting the progress of an encapsulated biochemical reaction.  
-*Source: [LBC, ESPCI](http://www.lbc.espci.fr)*
+
 
 ![Microfluidic sorting device](https://microfluidics-master.fr/wp-content/uploads/2019/01/lbc-sorting.gif)
+
+*Source: [LBC, ESPCI](http://www.lbc.espci.fr)*
 
 ---
 

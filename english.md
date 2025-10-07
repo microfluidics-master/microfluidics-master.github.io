@@ -4,7 +4,7 @@ title: English
 permalink: /english/
 ---
 
-# In a glance
+## The degree at a glance
 
 The Microfluidics degree (Master 2), supported by the Institut Pierre-Gilles de Gennes,  is an interdisciplinary degree, oriented towards innovation and industrial applications. In a few words the shortest way to take part to the start-up ecosystem in the microfluidics domain.
 
@@ -13,13 +13,13 @@ The degree is part of
 the « Physics of Complex System » Master’s degree  (Sorbonne Université, Université Paris Cité et Université Paris Saclay) for physicist students
 the « Materials Science and Engineering » (Université PSL) Master’s degree for chemists and biologists.
 
-# Why joining the Microfluidics degree ?
+## Why joining the Microfluidics degree ?
 Research and education form the essential part of the Microfluidics M2 degree. Two key elements distinguish the experience  from that provided by many other institutions: exceptional academic programs, and practical and research experience.
 
-# A Culture of Innovation
+## A Culture of Innovation
 Students graduating from the Microfluidics degree play a critical role in addressing and answering the questions that will improve lives and transform our world. Our students are taught to think like engineers and scientists through opportunities to solve relevant challenges in new and unique ways. The degree is built on a world-acclaimed faculty, state-of-the-art research laboratories and highly interdisciplinary curricula. Innovation and technology transform the fundamentals of what future engineers are learning.
 
-# Exceptional Urban Location
+## Exceptional Urban Location
 Students life takes place at the heart of Paris, within the Latin Quarter that is the historical, world-renown French scientific neighbourhood. IPGG campus provides easy walking access to the institutions taking part to the degree (Sorbonne Université, Institut Curie, École Normale Supérieure, Chimie Paristech, ESPCI). This close proximity enables and promotes interdisciplinary collaboration.
 Paris, itself a multicultural, thriving hub of innovation and commerce, also provides students easy access to other important research campuses such as Université Paris Diderot and Université Paris Saclay.
 

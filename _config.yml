@@ -14,7 +14,7 @@ header_pages:
 
 # Plugins
 plugins:
-  -jekyll-remote-theme
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -27,4 +27,4 @@ author:
   email: "contact@example.edu"
 
 # Optional analytics
-# google_analytics: G-XXXXXXX
+google_analytics: G-BH0Q5E5Z28

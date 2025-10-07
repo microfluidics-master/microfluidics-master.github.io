@@ -1,4 +1,2 @@
-/* Hide page titles for all normal pages (not posts or home) */
-.page-title {
-  display: none;
-}
+/* Hide titles on all regular pages */
+.page .page-title { display: none; }

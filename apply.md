@@ -28,6 +28,8 @@ Please send the following documents (ideally combined into a single PDF file):
 
 ---
 
+![Microfluidic droplet sorting device at IPGG](/assets/images/microfluidic.gif)
+
 ## Français
 
 Les candidatures pour la prochaine rentrée sont désormais ouvertes.  

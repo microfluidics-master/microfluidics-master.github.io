@@ -23,7 +23,7 @@
 
       <!-- MOBILE toggle: shown above the hamburger -->
       <a class="page-link lang-toggle lang-toggle--mobile" href="{{ alt_url | relative_url }}">
-        {% if current_lang == 'en' %}Français{% else %}English{% endif %}
+        {% if current_lang == 'en' %}FR{% else %}EN{% endif %}
       </a>
 
       <!-- Minima hamburger -->
@@ -54,9 +54,10 @@
           {% endif %}
         {% endfor %}
 
-        <!-- DESKTOP toggle: inline, after "Contact" -->
+        <!-- DESKTOP toggle: inline, after menu items with spacing -->
+        <span class="nav-spacer"></span>
         <a class="page-link lang-toggle lang-toggle--desktop" href="{{ alt_url | relative_url }}">
-          {% if current_lang == 'en' %}Français{% else %}English{% endif %}
+          {% if current_lang == 'en' %}FR{% else %}EN{% endif %}
         </a>
       </div>
     </nav>

@@ -2,6 +2,7 @@
 layout: home
 title: "Master Microfluidique (M2)"
 permalink: /fr/
+nav_weight: 10
 ---
 
 {% include lang-switch.html %}

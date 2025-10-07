@@ -2,6 +2,7 @@
 layout: page
 title: Degree information
 permalink: /en/degree-information/
+nav_weight: 20
 ---
 
 {% include lang-switch.html %}

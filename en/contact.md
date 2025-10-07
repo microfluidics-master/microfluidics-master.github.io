@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /en/contact/
+nav_weight: 40
 ---
 
 {% include lang-switch.html %}

@@ -2,6 +2,7 @@
 layout: page
 title: Presentation
 permalink: /en/presentation/
+nav_weight: 30
 ---
 
 {% include lang-switch.html %}

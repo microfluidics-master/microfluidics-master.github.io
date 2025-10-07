@@ -2,6 +2,7 @@
 layout: home
 title: "Microfluidics Master (M2)"
 permalink: /en/
+nav_weight: 10
 ---
 
 {% include lang-switch.html %}

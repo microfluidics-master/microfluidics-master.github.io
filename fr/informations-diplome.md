@@ -2,6 +2,7 @@
 layout: page
 title: Informations sur le diplôme
 permalink: /fr/informations-diplome/
+nav_weight: 30
 ---
 
 {% include lang-switch.html %}

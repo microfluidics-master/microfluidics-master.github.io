@@ -1,4 +1,8 @@
-@import "minima";
+---
+---
 
-/* Hide titles on all regular pages */
-.page .page-title { display: none; }
+@import "{{ site.theme }}";
+
+.site-title {
+  display: none;
+}

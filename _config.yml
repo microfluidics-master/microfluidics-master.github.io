@@ -28,7 +28,8 @@ minima:
   nav_pages:
     - index.md
     - english.md
-    - french.md
+    - francais.md
+    - contact.md
     - apply.md
 
 # Author info

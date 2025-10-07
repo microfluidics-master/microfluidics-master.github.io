@@ -1,30 +1,30 @@
-title: "Master in Microfluidics & Miniaturization"
+title: "Jacques Fattaccioli"
 description: >-
-  Interdisciplinary program at Sorbonne Université / PSL (IPGG): microfluidics, soft matter, and applications.
-url: "https://microfluidics-master.github.io"   # ← change to your chosen URL
-baseurl: ""                                     # for project sites, set to "/REPO-NAME"
-remote-theme: jekyll/minima
+  Master in Microfluidics and Miniaturization
+url: "https://microfluidics-master.github.io"  # ← change USERNAME
+baseurl: ""                        # for project site, set to "/REPO-NAME"
+theme: minima
 
-# Navigation for Minima
-header_pages:
-  - index.md
-  - francais.md
-  - english.md
-  - contact.md
-
-# Plugins
+# SEO and sitemap
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 
+# Build settings
 markdown: kramdown
 highlighter: rouge
+paginate: 5
 
+# Navigation links (for the Minima header)
+header_pages:
+  - index.md
+  - about.md
+
+# Author info
 author:
-  name: "Microfluidics Master Program"
-  email: "contact@example.edu"
+  name: Jacques Fattaccioli
+  email: jacques.fattaccioli@ens.psl.eu
 
-# Optional analytics
-google_analytics: G-BH0Q5E5Z28
+# Google Analytics (optional)
+# google_analytics: G-XXXXXXX

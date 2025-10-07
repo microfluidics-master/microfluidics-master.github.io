@@ -17,17 +17,10 @@ markdown: kramdown
 highlighter: rouge
 paginate: 5
 
-# Navigation links (for the Minima header)
-header_pages:
-- index.md
-- english.md
-- french.md
-- apply.md
-
 minima:
   nav_pages:
     - index.md
-    = microfluidics.md
+    - microfluidics.md
     - english.md
     - francais.md
     - contact.md

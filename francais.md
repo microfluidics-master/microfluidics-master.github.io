@@ -3,7 +3,6 @@ layout: page
 title: Francais
 permalink: /francais/
 ---
-## Master 2 en Microfluidique
 
 Le **Master en Microfluidique** (Master 2) est un **programme interdisciplinaire** soutenu par l’[Institut Pierre-Gilles de Gennes (IPGG)](https://www.ipgg.fr/).  
 Il est orienté vers **l’innovation, la recherche et les applications industrielles**, et constitue l’une des voies les plus rapides pour rejoindre l’**écosystème des start-ups** dans le domaine de la microfluidique.
@@ -15,7 +14,7 @@ Ce programme s’inscrit dans deux diplômes de Master reconnus internationaleme
 
 ---
 
-## Pourquoi rejoindre le Master en Microfluidique ?
+### Pourquoi rejoindre le Master en Microfluidique ?
 
 Le programme offre une **combinaison unique** de formation scientifique avancée, d’expérience de recherche de pointe et d’ouverture à l’innovation.  
 Deux atouts principaux caractérisent l’expérience étudiante :
@@ -31,7 +30,7 @@ Les étudiants apprennent à raisonner comme des scientifiques et des ingénieur
 
 ---
 
-## Un lieu unique
+### Un lieu unique
 
 La vie étudiante se déroule **au cœur de Paris**, dans le Quartier latin – haut lieu historique de la science française.  
 Le campus de l’IPGG est à proximité immédiate d’institutions de renommée mondiale telles que :
@@ -47,7 +46,7 @@ Paris est également une **métropole dynamique et internationale**, offrant un 
 
 ---
 
-## Aperçu du cursus
+### Aperçu du cursus
 
 Le programme se déroule de **septembre à juin/juillet** et correspond à **60 ECTS**.
 
@@ -55,7 +54,7 @@ Le programme se déroule de **septembre à juin/juillet** et correspond à **60 
 - **Projet de recherche (3 ECTS)** → Réalisé au premier semestre dans un laboratoire de l’IPGG.  
 - **Mémoire et stage de Master (30 ECTS)** → Stage de 5 à 6 mois, en France ou à l’étranger, avec soutenance devant un jury.  
 
-### Thématiques principales
+#### Thématiques principales
 
 **Technologie**  
 - Micro- et nanofabrication : silicium, PDMS, plastiques, électronique flexible  
@@ -77,7 +76,7 @@ Le programme se déroule de **septembre à juin/juillet** et correspond à **60 
 
 ---
 
-## Formation pratique
+### Formation pratique
 
 Dès le début, les étudiants bénéficient d’une **formation expérimentale intensive** sur la plateforme technologique de l’IPGG, pour apprendre à **concevoir, fabriquer et manipuler des dispositifs microfluidiques**.  
 
@@ -87,7 +86,7 @@ Cette formation est complétée par :
 
 ---
 
-## Innovation et liens avec l’industrie
+### Innovation et liens avec l’industrie
 
 La microfluidique est un moteur de l’**entrepreneuriat deep-tech**.  
 Le programme s’appuie sur des liens étroits avec les écosystèmes d’innovation :  
@@ -99,7 +98,7 @@ Les étudiants rencontrent régulièrement des start-ups et des industriels, et 
 
 ---
 
-## Équipe enseignante
+### Équipe enseignante
 
 L’enseignement est assuré par des **chercheurs de premier plan** de la région parisienne, dont :  
 
@@ -114,7 +113,7 @@ L’enseignement est assuré par des **chercheurs de premier plan** de la régio
 
 ---
 
-## Liens utiles
+### Liens utiles
 
 - Site officiel : [microfluidics-master.fr](http://microfluidics-master.fr)  
 - Institut Pierre-Gilles de Gennes : [ipgg.fr](https://www.ipgg.fr/)  

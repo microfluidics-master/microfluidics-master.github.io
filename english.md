@@ -3,7 +3,7 @@ layout: page
 title: English
 permalink: /english/
 ---
-## Master 2 in Microfluidics
+
 
 The **Master in Microfluidics** (Master 2) is an **interdisciplinary program** supported by the [Institut Pierre-Gilles de Gennes (IPGG)](https://www.ipgg.fr/).  
 It is oriented towards **innovation, research, and industrial applications**, and offers one of the fastest ways to connect with the **start-up ecosystem** in the field of microfluidics.
@@ -15,7 +15,7 @@ This program is part of two internationally recognized Master's degrees:
 
 ---
 
-## Why join the Microfluidics program?
+### Why join the Microfluidics program?
 
 The program provides a **unique combination** of advanced scientific training, cutting-edge research experience, and exposure to innovation.  
 Two key strengths define the student experience:
@@ -31,7 +31,7 @@ Students are trained to think like scientists and engineers while solving real-w
 
 ---
 
-## A unique location
+### A unique location
 
 Student life takes place in the **heart of Paris**, within the Latin Quarter – a historical hub of French science.  
 The IPGG campus is within walking distance of world-class institutions such as:
@@ -47,7 +47,7 @@ Paris itself is a **thriving multicultural hub of innovation** and research, off
 
 ---
 
-## Curriculum Overview
+### Curriculum Overview
 
 The program runs from **September to June/July** and is worth **60 ECTS**.
 
@@ -55,7 +55,7 @@ The program runs from **September to June/July** and is worth **60 ECTS**.
 - **Research Project (3 ECTS)** → A first-semester project in an IPGG lab.  
 - **Master’s Thesis & Internship (30 ECTS)** → A 5–6 month research internship, defended before a jury.  
 
-### Core Topics
+#### Core Topics
 
 **Technology**  
 - Micro- and nanofabrication: silicon, PDMS, plastics, flexible electronics  
@@ -77,7 +77,7 @@ The program runs from **September to June/July** and is worth **60 ECTS**.
 
 ---
 
-## Hands-on Training
+### Hands-on Training
 
 From the very start, students receive **intensive lab training** on the IPGG technological platform, learning to **design, fabricate, and manipulate microfluidic devices**.  
 
@@ -87,7 +87,7 @@ This foundation is reinforced by:
 
 ---
 
-## Innovation & Industry Connection
+### Innovation & Industry Connection
 
 Microfluidics is a driver of **deep-tech entrepreneurship**.  
 The program benefits from strong ties with innovation clusters:  
@@ -99,7 +99,7 @@ Students meet start-ups and industrial partners during regular events, and many 
 
 ---
 
-## Faculty
+### Faculty
 
 Teaching is provided by **leading researchers** from across Paris, including:  
 
@@ -114,7 +114,7 @@ Teaching is provided by **leading researchers** from across Paris, including:
 
 ---
 
-## Useful Links
+### Useful Links
 
 - Official website: [microfluidics-master.fr](http://microfluidics-master.fr)  
 - Institut Pierre-Gilles de Gennes: [ipgg.fr](https://www.ipgg.fr/)  

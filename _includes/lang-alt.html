@@ -1,7 +1,0 @@
-{% assign clean_url = page.url %}
-{% if page.lang == "en" %}
-  <link rel="alternate" hreflang="fr" href="{{ site.url }}/fr{{ clean_url | replace_first: '/en', '' }}" />
-{% elsif page.lang == "fr" %}
-  <link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ clean_url | replace_first: '/fr', '' }}" />
-{% endif %}
-<link rel="alternate" hreflang="x-default" href="{{ site.url }}/" />

@@ -3,7 +3,7 @@ description: >-
   Interdisciplinary program at Sorbonne Université / PSL (IPGG): microfluidics, soft matter, and applications.
 url: "https://microfluidics-master.github.io"   # ← change to your chosen URL
 baseurl: ""                                     # for project sites, set to "/REPO-NAME"
-remote-theme: minima
+remote-theme: jekyll/minima
 
 # Navigation for Minima
 header_pages:

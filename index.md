@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Microfluidics Master (M2)"
+title: "Home"
 ---
 
 # Master 2 en Microfluidique – En bref

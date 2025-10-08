@@ -15,7 +15,7 @@ Il associe **enseignements avancés, formation expérimentale intensive et stage
 - **Diplôme** : Master 2 (60 ECTS, septembre–juillet)  
 - **Établissements partenaires** : Sorbonne Université, Université PSL, Université Paris Cité, Université Paris-Saclay  
 - **Enseignements** : microfabrication, physique de la matière molle, lab-on-chip, biochimie, organes-sur-puce  
-- **Formation** : travaux pratiques intensifs à l’IPGG, projet de recherche (3 ECTS), stage et mémoire de Master (30 ECTS)  
+- **Formation** : S1 : cours, travaux pratiques intensifs à l’IPGG, projet de recherche (30 ECTS), S2 : stage et mémoire de Master (30 ECTS)  
 - **Innovation** : liens étroits avec les start-ups, l’incubateur PC’Up et des partenaires industriels  
 - **Localisation** : Quartier latin à Paris – au cœur d’un réseau d’institutions scientifiques majeures  
 
@@ -34,7 +34,7 @@ It combines **advanced courses, hands-on lab training, and a research internship
 - **Degree**: Master 2 (60 ECTS, September–July)  
 - **Host institutions**: Sorbonne Université, Université PSL, Université Paris Cité, Université Paris-Saclay  
 - **Focus**: Microfabrication, soft matter physics, lab-on-chip, biochemistry, organ-on-chip  
-- **Training**: Intensive lab courses at IPGG, research project (3 ECTS), internship & Master’s thesis (30 ECTS)  
+- **Training**: S1: lectures, Intensive lab courses at IPGG, research project (30 ECTS), S2: internship & Master’s thesis (30 ECTS)  
 - **Innovation**: Close ties to start-ups, incubators (PC’Up), and industrial partners  
 - **Location**: Latin Quarter, Paris – within walking distance of leading research institutes  
 

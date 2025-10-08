@@ -27,7 +27,7 @@ minima:
 
 # Minima options (optional)
 minima:
-  skin: dark   # classic, dark, solarized, auto, etc.
+  skin: auto   # classic, dark, solarized, auto, etc.
 
 # Author info
 author:

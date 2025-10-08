@@ -25,6 +25,10 @@ minima:
     - francais.md
     - apply.md
 
+# Minima options (optional)
+minima:
+  skin: dark   # classic, dark, solarized, auto, etc.
+
 # Author info
 author:
   name: Microfluidics Program Team

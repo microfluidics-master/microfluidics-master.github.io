@@ -10,15 +10,10 @@ permalink: /contact/
     <input type="email" name="email" required>
   </label>
 
-  </br>
-  </br>
 
   <label>Message
     <textarea name="message" rows="10" cols="40" required></textarea>
   </label>
-
-  </br>
-  </br>
   
   <!-- Honeypot (anti-spam) -->
   <input type="text" name="_gotcha" style="display:none">

@@ -19,7 +19,7 @@ Microfluidics is both a **science** (studying fluid behavior in micro-channels) 
 
 ## Videos
 
-Below are a few carefully chosen introductory videos (open science/edu content). You can remove or reorder as you wish.
+Below are three introductory videos : 
 
 ### 1) Aventures Microfluidique #1 : La physique microscopique
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oPJfXSb5QYw?si=Eo1lcLlTpA8tE805"

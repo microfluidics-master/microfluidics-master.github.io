@@ -3,12 +3,15 @@ layout: home
 title: "Home"
 ---
 
-# Master 2 en Microfluidique – En bref
+
+![Microscope and Microfluidic Chip](/assets/images/Bandeau.jpg)
+
+### Master 2 en Microfluidique – En bref
 
 Le **Master en Microfluidique (M2)**, soutenu par l’[Institut Pierre-Gilles de Gennes (IPGG)](https://www.ipgg.fr/), est un **programme interdisciplinaire d’un an** à l’interface de la physique, de la chimie et de la biologie.  
 Il associe **enseignements avancés, formation expérimentale intensive et stage de recherche**, avec un fort accent sur l’**innovation et les applications industrielles**.
 
-## Points clés
+#### Points clés
 - **Diplôme** : Master 2 (60 ECTS, septembre–juillet)  
 - **Établissements partenaires** : Sorbonne Université, Université PSL, Université Paris Cité, Université Paris-Saclay  
 - **Enseignements** : microfabrication, physique de la matière molle, lab-on-chip, biochimie, organes-sur-puce  
@@ -20,14 +23,14 @@ Les diplômés rejoignent aussi bien le monde académique que les laboratoires d
 
 👉 Plus de détails : [Description complète du programme](francais.md)
 
+---
 
-
-# Master 2 in Microfluidics – At a Glance
+### Master 2 in Microfluidics – At a Glance
 
 The **Microfluidics Master (M2)**, supported by the [Institut Pierre-Gilles de Gennes (IPGG)](https://www.ipgg.fr/), is a **one-year interdisciplinary program** at the crossroads of physics, chemistry, and biology.  
 It combines **advanced courses, hands-on lab training, and a research internship**, with a strong focus on **innovation and industrial applications**.
 
-## Key Facts
+#### Key Facts
 - **Degree**: Master 2 (60 ECTS, September–July)  
 - **Host institutions**: Sorbonne Université, Université PSL, Université Paris Cité, Université Paris-Saclay  
 - **Focus**: Microfabrication, soft matter physics, lab-on-chip, biochemistry, organ-on-chip  

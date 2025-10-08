@@ -5,7 +5,6 @@ permalink: /apply/
 ---
 
 
-Applications for the next academic year are now open.  
 Contact: Contact : [m2microfluidique@gmail.com](mailto:m2microfluidique@gmail.com)
 
 If you are interested in the Microfluidics Master program, feel free to contact us in advance (or later) to discuss your application and, if possible, arrange a visit.
@@ -31,7 +30,6 @@ Please send the following documents (ideally combined into a single PDF file):
 
 #### Français
 
-Les candidatures pour la prochaine rentrée sont désormais ouvertes.  
 Contact : [m2microfluidique@gmail.com](mailto:m2microfluidique@gmail.com)
 
 Si vous êtes intéressés par le Master Microfluidique, n’hésitez pas à nous contacter en amont pour échanger sur votre candidature et, si possible, organiser une visite.

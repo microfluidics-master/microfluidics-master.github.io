@@ -103,14 +103,14 @@ Students meet start-ups and industrial partners during regular events, and many 
 
 Teaching is provided by **leading researchers** from across Paris, including:  
 
-- **Institut Curie**: M. Piel, P. Silberzan, B. Hajj, S. Descroix, C. Villard…  
-- **Sorbonne Université**: J. Fattaccioli, M. Morel, S. Ognier…  
-- **ENS Paris-Saclay**: B. Le Pioufle  
-- **ESPCI Paris**: N. Brémond, D. Quéré…  
-- **Chimie ParisTech**: M. Tatoulian, C. Guyon, M. Zhang…  
+- **Institut Curie**: M. Thery, P. Silberzan, B. Hajj, S. Descroix, S. Coscoy, L. Muller  
+- **Sorbonne Université**: H. de Maleprade  
+- **ENS Paris-Saclay**: B. Le Pioufle, K. Perez-Totalla 
+- **ESPCI Paris**: N. Brémond, D. Quéré, C. Trégouet, M. Ardre, J. McGraw  
+- **Chimie ParisTech**: M. Tatoulian, S. Ognier 
 - **École Normale Supérieure**: M. Morel, J. Fattaccioli  
 - **Université Paris Cité / Paris Diderot**: A. Lindner  
-- **Université Paris-Saclay**: F. Restagno  
+- **Université Paris-Saclay**: B. Le Pioufle  
 
 ---
 

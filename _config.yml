@@ -17,17 +17,16 @@ markdown: kramdown
 highlighter: rouge
 paginate: 6
 
+
+# Minima options (optional)
 minima:
+  skin: solarized   # classic, dark, solarized, auto, etc.
   nav_pages:
     - index.md
     - microfluidics.md
     - english.md
     - francais.md
     - apply.md
-
-# Minima options (optional)
-minima:
-  skin: auto   # classic, dark, solarized, auto, etc.
 
 # Author info
 author:

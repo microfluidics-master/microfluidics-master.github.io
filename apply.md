@@ -5,8 +5,6 @@ permalink: /apply/
 ---
 
 
-### English
-
 Applications for the next academic year are now open.  
 Contact: Contact : [m2microfluidique@gmail.com](mailto:m2microfluidique@gmail.com)
 
@@ -16,7 +14,7 @@ If you are interested in the Microfluidics Master program, feel free to contact 
 Jacques FATTACCIOLI (Sorbonne Université, Department of Chemistry, ENS, IPGG)  
 Contact : [m2microfluidique@gmail.com](mailto:m2microfluidique@gmail.com) 
 
-### Application file
+#### Application file
 Please send the following documents (ideally combined into a single PDF file):
 
 - Curriculum Vitae  
@@ -31,7 +29,7 @@ Please send the following documents (ideally combined into a single PDF file):
 
 *Source: [Elian Martin, Platerforme IPGG - UAR 3750](https://www.plateformeipgg.fr/)*
 
-### Français
+#### Français
 
 Les candidatures pour la prochaine rentrée sont désormais ouvertes.  
 Contact : [m2microfluidique@gmail.com](mailto:m2microfluidique@gmail.com)
@@ -42,7 +40,7 @@ Si vous êtes intéressés par le Master Microfluidique, n’hésitez pas à nou
 Jacques FATTACCIOLI (Sorbonne Université, Département de Chimie, ENS, IPGG)  
 Contact : [m2microfluidique@gmail.com](mailto:m2microfluidique@gmail.com)
 
-### Dossier de candidature
+#### Dossier de candidature
 Merci de nous transmettre les documents suivants (idéalement regroupés dans un seul fichier PDF) :
 
 - Curriculum Vitae  

@@ -4,12 +4,11 @@ description: "Interdisciplinary degree in physics, chemistry and biology.
   Hosted by the Institut Pierre-Gilles de Gennes (IPGG), Sorbonne Université, Université PSL, Université Paris Cité, Université Paris-Saclay."
 url: "https://microfluidics-master.github.io"  # ← change USERNAME
 baseurl: ""                        # for project site, set to "/REPO-NAME"
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@v3.0.0
 
 # SEO and sitemap
 plugins:
   - jekyll-remote-theme
-#  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 

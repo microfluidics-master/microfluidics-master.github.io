@@ -25,6 +25,13 @@ h1, h2, h3 {
   color: $brand-color-dark;
 }
 
+// Increase font size of page titles
+.page-content h1.page-title {
+  font-size: 3em;  /* adjust value as you like (default is around 1.75em) */
+  font-weight: 700;
+  margin-bottom: 0.5em;
+}
+
 /* === Footer === */
 .site-footer {
   background: $brand-color-light;

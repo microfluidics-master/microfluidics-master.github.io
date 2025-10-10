@@ -4,16 +4,68 @@ layout: page
 permalink: /microfluidics/
 ---
 
-## Microfluidics ?
+**Microfluidics** is an interdisciplinary field at the crossroads of **physics**, **chemistry**, **biology**, and **engineering**.  
+It explores how fluids behave, mix, and react in **miniaturized systems** — from droplets a few micrometers wide to complex **organ-on-chip** models.  
 
-Microfluidics is both a **science** (studying fluid behavior in micro-channels) and a **technology** for designing lab-on-chip devices across physics, chemistry, and biology. It also serves as a versatile **mesoscale framework** to engineer, measure and control complex flows.
+Beyond its fundamental aspects, microfluidics has become a powerful **enabling technology** for applications as diverse as **drug discovery**, **diagnostics**, **environmental monitoring**, **soft-matter engineering**, **materials synthesis**, and **sustainable energy**.  
 
-**Example — droplet sorting by fluorescence:** a microfluidic device routes droplets based on their fluorescence signal, reflecting the progress of an encapsulated biochemical reaction.  
+By combining **precise flow control**, **advanced microfabrication**, and **interfacial science**, microfluidics offers a unique platform to **mimic biological processes**, **accelerate chemical reactions**, and **design new materials** at the mesoscale.
+
+
+## Some examples
+
+### 🌈 High-throughput droplet sorting by fluorescence:
+
+ A microfluidic device routes droplets based on their fluorescence signal, reflecting the progress of an encapsulated biochemical reaction.  
 
 
 ![Microfluidic sorting device](https://microfluidics-master.fr/wp-content/uploads/2019/01/lbc-sorting.gif)
 
 *Source: [LBC, ESPCI](http://www.lbc.espci.fr)*
+
+### 🫀 Organ-on-a-Chip
+Microfluidic devices that reproduce the structure and function of living tissues.
+
+**Examples**
+- **Gut-on-a-chip**: models microbiota interactions, nutrient absorption, and inflammation.  
+
+> *Goal: replace or complement animal testing and provide personalized medicine tools.*
+
+---
+
+### 🌊 Blue Energy
+Harvesting renewable energy from salinity gradients using micro- and nano-fluidic channels.
+
+**Examples**
+- **Nanoporous membranes**: control ion transport for optimized energy conversion.  
+
+> *Goal: design sustainable and carbon-free energy sources from natural concentration gradients.*
+
+---
+
+### ⚗️ Flow Chemistry
+Performing chemical reactions in continuously flowing microreactors instead of batch flasks.
+
+**Examples**
+- **Continuous synthesis** of pharmaceuticals with high precision and safety.  
+- **Photochemical and electrochemical processes** enhanced by efficient light or current delivery.  
+
+> *Goal: make chemistry safer, faster, and more sustainable.*
+
+---
+
+### 🧫 Organoids & Microfluidics
+3D mini-tissues derived from stem cells, cultured and perfused within microfluidic environments.
+
+**Examples**
+- **Brain organoids on chip**: to study neurodevelopment and disease.  
+- **Tumor spheroids**: for testing anticancer drugs in realistic conditions.  
+
+> *Goal: bridge the gap between cell culture and real organs by recreating physiological microenvironments.*
+
+---
+
+*Microfluidics is thus not only a scientific discipline, but also a versatile platform enabling innovation across life sciences, materials, and energy.*
 
 ---
 

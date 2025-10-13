@@ -2,6 +2,7 @@
 title: "Contact"
 layout: page
 permalink: /contact/
+hide_title: true
 ---
 
 <form action="https://formspree.io/f/xeorlejk" method="POST">

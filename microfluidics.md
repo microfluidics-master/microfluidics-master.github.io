@@ -2,6 +2,7 @@
 title: "What is Microfluidics ?"
 layout: page
 permalink: /microfluidics/
+hide_title: true
 ---
 
 **Microfluidics** is an interdisciplinary field at the crossroads of **physics**, **chemistry**, **biology**, and **engineering**.  

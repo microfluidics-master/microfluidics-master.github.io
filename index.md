@@ -7,7 +7,7 @@ hide_title: true
 
 ### Master 2 en Microfluidique – En bref
 
-Le **Master en Microfluidique (M2)**, soutenu par l’[Institut Pierre-Gilles de Gennes (IPGG)](https://www.ipgg.fr/), est un **programme interdisciplinaire d’un an** à l’interface de la physique, de la chimie et de la biologie.  
+Le **Master en Microfluidique (M2)**, soutenu par l’[Institut Pierre-Gilles de Gennes (IPGG)](https://www.institut-pgg.fr/), est un **programme interdisciplinaire d’un an** à l’interface de la physique, de la chimie et de la biologie.  
 Il associe **enseignements avancés, formation expérimentale intensive et stage de recherche**, avec un fort accent sur l’**innovation et les applications industrielles**.
 
 #### Points clés
@@ -28,7 +28,7 @@ Les diplômés rejoignent aussi bien le monde académique que les laboratoires d
 
 ### Master 2 in Microfluidics – At a Glance
 
-The **Microfluidics Master (M2)**, supported by the [Institut Pierre-Gilles de Gennes (IPGG)](https://www.ipgg.fr/), is a **one-year interdisciplinary program** at the crossroads of physics, chemistry, and biology.  
+The **Microfluidics Master (M2)**, supported by the [Institut Pierre-Gilles de Gennes (IPGG)](https://www.institut-pgg.fr/), is a **one-year interdisciplinary program** at the crossroads of physics, chemistry, and biology.  
 It combines **advanced courses, hands-on lab training, and a research internship**, with a strong focus on **innovation and industrial applications**.
 
 #### Key Facts

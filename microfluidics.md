@@ -95,7 +95,7 @@ title="Aventures Microfluidique #3 : Les puces microfluidiques" frameborder="0" 
 
 ## Friends & Partners
 
-- [Institut Pierre-Gilles de Gennes](https://www.institut-pgg.com)  
+- [Institut Pierre-Gilles de Gennes](https://www.institut-pgg.fr/)  
 - [Microscale Affairs – IPGG seminar series](https://microscaleaffairs.wixsite.com)
 
 ---

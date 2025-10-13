@@ -39,7 +39,7 @@
   </style>
   {% endif %}
 
-  
+
   {%- comment -%}
     Custom Google Analytics (GA4) injection
   {%- endcomment -%}
@@ -53,4 +53,13 @@
     gtag('config', '{{ site.ga_measurement_id }}');
   </script>
   {% endif %}
+
+  <!-- _includes/custom-head.html -->
+<style>
+  /* Bold the menu item that links to /microfluidics/ */
+  .site-nav .page-link[href="{{ '/apply/' | relative_url }}"] {
+    font-weight: 700;
+  }
+</style>
+
 </head>

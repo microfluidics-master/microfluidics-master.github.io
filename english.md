@@ -6,7 +6,7 @@ hide_title: true
 ---
 
 
-The **Master in Microfluidics** (Master 2) is an **interdisciplinary program** supported by the [Institut Pierre-Gilles de Gennes (IPGG)](https://www.ipgg.fr/).  
+The **Master in Microfluidics** (Master 2) is an **interdisciplinary program** supported by the [Institut Pierre-Gilles de Gennes (IPGG)](https://www.institut-pgg.fr/).  
 It is oriented towards **innovation, research, and industrial applications**, and offers one of the fastest ways to connect with the **start-up ecosystem** in the field of microfluidics.
 
 This program is part of two internationally recognized Master's degrees:

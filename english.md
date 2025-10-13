@@ -116,7 +116,6 @@ Teaching is provided by **leading researchers** from across Paris, including:
 
 ### Useful Links
 
-- Official website: [microfluidics-master.fr](http://microfluidics-master.fr)  
-- Institut Pierre-Gilles de Gennes: [ipgg.fr](https://www.ipgg.fr/)  
+- Institut Pierre-Gilles de Gennes: [ipgg.fr](https://www.institut-pgg.fr/)  
 
 ---

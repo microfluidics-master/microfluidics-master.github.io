@@ -1,0 +1,12 @@
+/* Add a pink frame around the page */
+body {
+  border: 10px solid pink;
+  margin: 0;
+  height: 100vh;
+  box-sizing: border-box;
+}
+
+/* Example override: change site title */
+.site-title {
+  color: hotpink !important;
+}

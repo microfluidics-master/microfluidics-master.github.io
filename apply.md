@@ -6,7 +6,7 @@ hide_title: true
 ---
 
 
-Contact: Contact : [m2microfluidique@gmail.com](mailto:m2microfluidique@gmail.com)
+Contact : [m2microfluidique@gmail.com](mailto:m2microfluidique@gmail.com)
 
 If you are interested in the Microfluidics Master program, feel free to contact us in advance (or later) to discuss your application and, if possible, arrange a visit.
 

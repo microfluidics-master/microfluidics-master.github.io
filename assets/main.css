@@ -1,4 +1,4 @@
-/* Keep title in the DOM for screen readers & SEO */
+/* Keep title in the DOM for screen readers & SEO 
 .page-header .page-title,
 .post-header .post-title,
 .page-header .page-heading {
@@ -7,7 +7,7 @@
   padding: 0; margin: -1px;
   overflow: hidden; clip: rect(0,0,0,0);
   white-space: nowrap; border: 0;
-}
+}*/
 
 /* example overrides */
 body { border: 10px solid pink; box-sizing: border-box; margin: 0; height: 100vh; }

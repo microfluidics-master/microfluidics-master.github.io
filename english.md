@@ -2,6 +2,7 @@
 layout: page
 title: English
 permalink: /english/
+hide_title: true
 ---
 
 

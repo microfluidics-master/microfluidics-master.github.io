@@ -45,3 +45,9 @@
     display: block;
   }
 }
+
+// Pink frame around page
+body {
+  border: 10px solid hotpink;
+  min-height: 100vh;
+}

@@ -18,34 +18,28 @@
     }
   }
   
-  // Fix hamburger/cross toggle
+  // Fix hamburger icon visibility
+  .site-nav label[for="nav-trigger"] {
+    display: block;
+    float: right;
+    width: 36px;
+    height: 36px;
+    z-index: 2;
+    cursor: pointer;
+  }
+  
+  .site-nav .menu-icon {
+    display: block;
+    float: right;
+    width: 36px;
+    height: 26px;
+    line-height: 0;
+    padding-top: 10px;
+    text-align: center;
+  }
+  
   .site-nav .menu-icon > svg {
     fill: currentColor;
-  }
-  
-  .site-nav .menu-icon > svg path {
-    // Default: show hamburger (3 lines)
-    &:nth-child(1) {
-      d: path("M0 3h20v2H0z");
-    }
-    &:nth-child(2) {
-      d: path("M0 9h20v2H0z");
-    }
-    &:nth-child(3) {
-      d: path("M0 15h20v2H0z");
-    }
-  }
-  
-  // When menu is open: show cross
-  .site-nav input:checked ~ label .menu-icon > svg path {
-    &:nth-child(1) {
-      d: path("M2 2l16 16");
-    }
-    &:nth-child(2) {
-      opacity: 0;
-    }
-    &:nth-child(3) {
-      d: path("M2 18L18 2");
-    }
+    display: block;
   }
 }

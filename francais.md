@@ -5,13 +5,13 @@ permalink: /francais/
 hide_title: true
 ---
 
-Le **Master en Microfluidique** (Master 2) est un **programme interdisciplinaire** soutenu par l’[Institut Pierre-Gilles de Gennes (IPGG)](https://www.institut-pgg.fr/).  
+Le **Master en Microfluidique** (Master 2) est un **programme interdisciplinaire** soutenu par l’[**Institut Pierre-Gilles de Gennes (IPGG)**](https://www.institut-pgg.fr/).  
 Il est orienté vers **l’innovation, la recherche et les applications industrielles**, et constitue l’une des voies les plus rapides pour rejoindre l’**écosystème des start-ups** dans le domaine de la microfluidique.
 
 Ce programme s’inscrit dans deux diplômes de Master reconnus internationalement :
 
-- **Physique des systèmes complexes** (Sorbonne Université, Université Paris Cité, Université Paris-Saclay) – pour les étudiants issus de la physique.  
-- **Sciences et ingénierie des matériaux** (Université PSL) – pour les étudiants en chimie ou en biologie.  
+- **[Physique des Systèmes Complexes](https://physics-complex-systems.fr/)** (Sorbonne Université, Université Paris Cité, Université Paris-Saclay) – pour les étudiants issus de la physique.  
+- **[Sciences et Génie des Matériaux](https://psl.eu/formation/master-sciences-et-genie-des-materiaux)** (Université PSL) – pour les étudiants en chimie ou en biologie.  
 
 ---
 
@@ -107,9 +107,9 @@ L’enseignement est assuré par des **chercheurs de premier plan** de la régio
 - **Sorbonne Université**: H. de Maleprade  
 - **ENS Paris-Saclay**: B. Le Pioufle, K. Perez-Totalla 
 - **ESPCI Paris**: N. Brémond, D. Quéré, C. Trégouet, M. Ardre, J. McGraw  
-- **Chimie ParisTech**: M. Tatoulian, S. Ognier 
+- **Chimie ParisTech**: S. Ognier, F. d'Orlye 
 - **École Normale Supérieure**: M. Morel, J. Fattaccioli  
-- **Université Paris Cité / Paris Diderot**: A. Lindner  
+- **Université Paris Cité**: A. Lindner  
 - **Université Paris-Saclay**: B. Le Pioufle  
 
 ---

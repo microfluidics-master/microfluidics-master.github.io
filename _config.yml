@@ -5,7 +5,7 @@ url: "https://microfluidics-master.github.io"
 baseurl: ""
 
 remote_theme: jekyll/minima
-
+logo: /assets/images/logo.png
 
 # SEO and sitemap
 plugins:

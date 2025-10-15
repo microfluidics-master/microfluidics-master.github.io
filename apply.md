@@ -6,8 +6,6 @@ hide_title: true
 ---
 
 
-Contact : [m2microfluidique@gmail.com](mailto:m2microfluidique@gmail.com)
-
 If you are interested in the Microfluidics Master program, feel free to contact us in advance (or later) to discuss your application and, if possible, arrange a visit.
 
 **Contact person:**  
@@ -29,9 +27,9 @@ Please send the following documents (ideally combined into a single PDF file):
 
 *Source: [Elian Martin, Platerforme IPGG - UAR 3750](https://www.plateformeipgg.fr/)*
 
-#### Français
+---
 
-Contact : [m2microfluidique@gmail.com](mailto:m2microfluidique@gmail.com)
+#### Français
 
 Si vous êtes intéressés par le Master Microfluidique, n’hésitez pas à nous contacter en amont pour échanger sur votre candidature et, si possible, organiser une visite.
 

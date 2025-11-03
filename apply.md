@@ -19,6 +19,8 @@ This session is intended for international newcomer students for the 2025/26 aca
 
 Without any specific administrative or financial constraints (visa, scholarships etc.), it is strongly recommended to wait for the 2nd session so that your application is as complete as it can possibly be.
 
+---
+
 **Contact person:**  
 Jacques FATTACCIOLI (Sorbonne Université, Department of Chemistry, ENS, IPGG)  
 Contact : [m2microfluidique@gmail.com](mailto:m2microfluidique@gmail.com) 

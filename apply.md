@@ -8,6 +8,15 @@ hide_title: true
 
 If you are interested in the Microfluidics Master program, feel free to contact us in advance (or later) to discuss your application and, if possible, arrange a visit.
 
+**Applications are opened (Fast track PSL)**
+Application period : from October 16 to December 1, 2025 (23h59 CET time)
+
+Application procedure : based on an application file to be submitted online via on [PSL portal](https://espacecandidature.psl.eu/s/login/?language=en_US&_gl=1*b2n5m*_ga*MjAwNzU5NTA2My4xNzYxMDY0NDcy*_ga_FQG8R1PZSM*czE3NjIxNjM3MTMkbzgkZzEkdDE3NjIxNjQxMDEkajYwJGwwJGgw).
+
+This session is intended for international newcomer students for the 2025/26 academic year, and/or applying for an international scholarship (Bourses Eiffel etc.). Applications submitted in this first session but not meeting these criteria will be evaluated in the 2nd session. 
+
+Without any specific administrative or financial constraints (visa, scholarships etc.), it is strongly recommended to wait for the 2nd session so that your application is as complete as it can possibly be.
+
 **Contact person:**  
 Jacques FATTACCIOLI (Sorbonne Université, Department of Chemistry, ENS, IPGG)  
 Contact : [m2microfluidique@gmail.com](mailto:m2microfluidique@gmail.com) 

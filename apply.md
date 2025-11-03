@@ -8,7 +8,9 @@ hide_title: true
 
 If you are interested in the Microfluidics Master program, feel free to contact us in advance (or later) to discuss your application and, if possible, arrange a visit.
 
-**Applications are opened (Fast track PSL)**
+---
+
+⚠️ **Applications are opened (Fast track PSL)**
 Application period : from October 16 to December 1, 2025 (23h59 CET time)
 
 Application procedure : based on an application file to be submitted online via on [PSL portal](https://espacecandidature.psl.eu/s/login/?language=en_US&_gl=1*b2n5m*_ga*MjAwNzU5NTA2My4xNzYxMDY0NDcy*_ga_FQG8R1PZSM*czE3NjIxNjM3MTMkbzgkZzEkdDE3NjIxNjQxMDEkajYwJGwwJGgw).

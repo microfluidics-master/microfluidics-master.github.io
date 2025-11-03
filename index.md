@@ -5,6 +5,13 @@ hide_title: true
 ---
 
 
+⚠️ **Applications are opened (Fast track PSL)**
+Application period : from October 16 to December 1, 2025 (23h59 CET time)
+
+See  [Apply]{https://microfluidics-master.fr/apply/} for details.
+
+---
+
 ### Master 2 en Microfluidique – En bref
 
 Le **Master en Microfluidique (M2)**, soutenu par l’[Institut Pierre-Gilles de Gennes (IPGG)](https://www.institut-pgg.fr/), est un **programme interdisciplinaire d’un an** à l’interface de la physique, de la chimie et de la biologie.  

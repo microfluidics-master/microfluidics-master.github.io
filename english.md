@@ -86,6 +86,8 @@ This foundation is reinforced by:
 - A short research project in semester 1.  
 - A Master’s thesis (30 ECTS) in semester 2, carried out in academia or industry, in France or abroad.  
 
+![Pictures of the practicals](assets/images/Montage-Small.jpg)
+
 ---
 
 ### Innovation & Industry Connection

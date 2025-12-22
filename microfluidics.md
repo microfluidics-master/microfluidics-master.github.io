@@ -49,6 +49,7 @@ Harvesting renewable energy from salinity gradients using micro- and nano-fluidi
 ![INOD de Sweetch Energy](assets/images/Energie_Bleue.png)
 
 *Source: [Le Journal du CNRS](https://lejournal.cnrs.fr/articles/stephanie-descroix-la-biologiste-qui-met-nos-organes-sur-puce)*
+
 ---
 
 ### ⚗️ Flow Chemistry

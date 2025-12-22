@@ -20,7 +20,7 @@ By combining **precise flow control**, **advanced microfabrication**, and **inte
  A microfluidic device routes droplets based on their fluorescence signal, reflecting the progress of an encapsulated biochemical reaction.  
 
 
-![Microfluidic sorting device](https://microfluidics-master.fr/wp-content/uploads/2019/01/lbc-sorting.gif)
+![Microfluidic sorting device](assets/images/lbc-sorting.gif)
 
 *Source: [LBC, ESPCI](http://www.lbc.espci.fr)*
 

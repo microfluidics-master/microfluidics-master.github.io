@@ -85,6 +85,26 @@ Cette formation est complétée par :
 - Un projet de recherche au premier semestre.  
 - Un mémoire de Master (30 ECTS) au second semestre, effectué en laboratoire ou en entreprise, en France ou à l’étranger.  
 
+<table>
+<tr>
+<td>
+
+### Formation pratique  
+Dès le début, les étudiants bénéficient d’une **formation expérimentale intensive** sur la plateforme technologique de l’IPGG, pour apprendre à **concevoir, fabriquer et manipuler des dispositifs microfluidiques**.  
+
+Cette formation est complétée par :  
+- Un projet de recherche au premier semestre.  
+- Un mémoire de Master (30 ECTS) au second semestre, effectué en laboratoire ou en entreprise, en France ou à l’étranger.  
+
+</td>
+<td>
+
+<img src="assets/images/practicals1.jpg" width="100%"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ### Innovation et liens avec l’industrie

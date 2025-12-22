@@ -5,12 +5,6 @@ hide_title: true
 ---
 
 
-⚠️ **Applications are opened (Fast track PSL)**
-Application period : from October 16 to December 1, 2025 (23h59 CET time)
-
-See  [Apply](https://microfluidics-master.fr/apply/) for details.
-
----
 
 ### Master 2 en Microfluidique – En bref
 

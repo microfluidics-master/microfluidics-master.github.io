@@ -10,14 +10,14 @@ If you are interested in the Microfluidics Master program, feel free to contact 
 
 ---
 
-⚠️ **Applications are opened (Fast track PSL)**
-Application period : from October 16 to December 1, 2025 (23h59 CET time)
+⚠️ **Applications as part of the PSL Materials Science and Engineering Master**
+Application period : from January 15 to February 24, 2026 (23h59 CET time)
 
 Application procedure : based on an application file to be submitted online via on [PSL portal](https://espacecandidature.psl.eu/s/login/?language=en_US&_gl=1*b2n5m*_ga*MjAwNzU5NTA2My4xNzYxMDY0NDcy*_ga_FQG8R1PZSM*czE3NjIxNjM3MTMkbzgkZzEkdDE3NjIxNjQxMDEkajYwJGwwJGgw).
 
-This session is intended for international newcomer students for the 2025/26 academic year, and/or applying for an international scholarship (Bourses Eiffel etc.). Applications submitted in this first session but not meeting these criteria will be evaluated in the 2nd session. 
+⚠️ **Applications as part of the Physics of Complex System Master**
+Application period : May - June 2026 (Exact dates to be communicated later)
 
-Without any specific administrative or financial constraints (visa, scholarships etc.), it is strongly recommended to wait for the 2nd session so that your application is as complete as it can possibly be.
 
 ---
 

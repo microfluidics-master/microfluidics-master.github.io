@@ -32,6 +32,10 @@ Microfluidic devices that reproduce the structure and function of living tissues
 
 > *Goal: replace or complement animal testing and provide personalized medicine tools.*
 
+![Gut on a chip](assets/images/gut_on_chip.jpg)
+
+*Source: [Le Journal du CNRS](https://lejournal.cnrs.fr/articles/stephanie-descroix-la-biologiste-qui-met-nos-organes-sur-puce)*
+
 ---
 
 ### 🌊 Blue Energy
@@ -42,6 +46,9 @@ Harvesting renewable energy from salinity gradients using micro- and nano-fluidi
 
 > *Goal: design sustainable and carbon-free energy sources from natural concentration gradients.*
 
+![INOD de Sweetch Energy](assets/images/Energie_Bleue.png)
+
+*Source: [Le Journal du CNRS](https://lejournal.cnrs.fr/articles/stephanie-descroix-la-biologiste-qui-met-nos-organes-sur-puce)*
 ---
 
 ### ⚗️ Flow Chemistry

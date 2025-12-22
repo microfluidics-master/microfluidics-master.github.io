@@ -53,6 +53,10 @@ Performing chemical reactions in continuously flowing microreactors instead of b
 
 > *Goal: make chemistry safer, faster, and more sustainable.*
 
+![Microfluidic plasma microreactor](assets/images/microfluidique_plasma.jpg)
+
+*Source: [Le Journal du CNRS - See video](https://lejournal.cnrs.fr/videos/la-nouvelle-chimie-des-plasmas)*
+
 ---
 
 ### 🧫 Organoids & Microfluidics

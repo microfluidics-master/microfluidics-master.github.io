@@ -99,7 +99,7 @@ Cette formation est complétée par :
 </td>
 <td>
 
-<img src="assets/images/practicals1.jpg" width="100%"/>
+<img src="assets/images/practicals1.jpg" width="300"/>
 
 </td>
 </tr>

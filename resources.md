@@ -9,12 +9,9 @@ hide_title: true
 
 - **How the World Flows: Microfluidics from Raindrops to Covid Tests** A. Folch (Oxford University Press) [link](https://academic.oup.com/book/59761)
 
-<div align="center">
 | | |
 |---|---|
 | ![Cover 1](assets/images/folch.jpeg) | ![Cover 2](assets/images/capillarity_and_wetting_phenomena_thumbnail.jpg) |
-
-</div>
 
 ## Books
 

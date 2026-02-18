@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ressources
+title: Resources
 permalink: /resources/
 hide_title: true
 ---

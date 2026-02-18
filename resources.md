@@ -10,6 +10,13 @@ hide_title: true
 - **How the World Flows: Microfluidics from Raindrops to Covid Tests** A. Folch (Oxford University Press) [link](https://academic.oup.com/book/59761)
 
 
+<table align="center">
+  <tr>
+    <td><img src="assets/images/folch.jpeg" alt="Introduction à la microfluidique — cover" height="220"></td>
+    <td><img src="assets/images/capillarity_and_wetting_phenomena_thumbnail.jpg" alt="Microfluidics for biotechnology — cover" height="220"></td>
+  </tr>
+</table>
+
 ## Books
 
 - **Introduction à la microfluidique.** P. Tabeling (Belin) — [link](https://www.amazon.fr/Introduction-%C3%A0-microfluidique-P-Tabeling/dp/2701135001/ref=sr_1_1?s=books&ie=UTF8&qid=1520548930&sr=1-1&keywords=9782701135007&dpID=51YEDW60ZSL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)

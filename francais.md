@@ -105,20 +105,20 @@ Les étudiants rencontrent régulièrement des start-ups et des industriels, et 
 
 L’enseignement est assuré par des **chercheurs de premier plan** de la région parisienne, dont :  
 
-- **Institut Curie**: M. Thery, P. Silberzan, B. Hajj, S. Descroix, S. Coscoy, L. Muller  
+- **Institut Curie**: P. Silberzan, B. Hajj, S. Descroix, S. Coscoy, W. Keil
 - **Sorbonne Université**: H. de Maleprade  
-- **ENS Paris-Saclay**: B. Le Pioufle, K. Perez-Totalla 
-- **ESPCI Paris**: N. Brémond, D. Quéré, C. Trégouet, M. Ardre, J. McGraw  
+- **CEA Saclay**: K. Perez-Totalla 
+- **ESPCI Paris**: N. Brémond, D. Quéré, C. Trégouet, M. Ardre, J. McGraw, S. Aimé, M. Thery 
 - **Chimie ParisTech**: S. Ognier, F. d'Orlye 
-- **École Normale Supérieure**: M. Morel, J. Fattaccioli  
-- **Université Paris Cité**: A. Lindner  
-- **Université Paris-Saclay**: B. Le Pioufle  
+- **École Normale Supérieure**: C. Aimé, M. Morel, J. Fattaccioli, L. Muller 
+- **Université Paris Cité**: A. Lindner, N. Desprat  
+- **Institut Pierre-Gilles de Gennes**: B. Cinquin
 
 ---
 
 ### Liens utiles
 
 - Site officiel : [microfluidics-master.fr](http://microfluidics-master.fr)  
-- Institut Pierre-Gilles de Gennes : [ipgg.fr](https://www.ipgg.fr/)  
+- Institut Pierre-Gilles de Gennes : [ipgg.fr](https://www.institut-pgg.fr/)  
 
 ---

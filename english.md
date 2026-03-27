@@ -11,8 +11,8 @@ It is oriented towards **innovation, research, and industrial applications**, an
 
 This program is part of two internationally recognized Master's degrees:
 
-- **Physics of Complex Systems** (Sorbonne Université, Université Paris Cité, Université Paris-Saclay) – for students with a physics background.  
-- **Materials Science and Engineering** (Université PSL) – for students with chemistry or biology backgrounds.  
+- **[Physics of Complex Systems](https://physics-complex-systems.fr/)** (Sorbonne Université, Université Paris Cité, Université Paris-Saclay) – for students with a physics background.  
+- **[Materials Science and Engineering](https://psl.eu/en/education/master-s-degree-materials-science-and-engineering)** (Université PSL) – for students with chemistry or biology backgrounds.  
 
 ---
 

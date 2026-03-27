@@ -5,6 +5,10 @@ permalink: /resources/
 hide_title: true
 ---
 
+## Syllabus
+
+Indicative syllabus (as in 2025) : [Download](assets/documents/Syllabus_2025.pdf)
+
 ## Introductory Books
 
 - **How the World Flows: Microfluidics from Raindrops to Covid Tests** A. Folch (Oxford University Press) [link](https://academic.oup.com/book/59761)

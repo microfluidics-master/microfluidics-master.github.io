@@ -11,11 +11,13 @@ If you are interested in the Microfluidics Master program, feel free to contact 
 ---
 
 ⚠️ **Applications as part of the [PSL Materials Science and Engineering](https://psl.eu/en/education/master-s-degree-materials-science-and-engineering) Master**
+
 Application period: from May 25 to June 5, 2026 (23h59 CET time)
 
 Application procedure : based on an application file to be submitted online via on [PSL portal](https://espacecandidature.psl.eu/s/login/?language=en_US&_gl=1*b2n5m*_ga*MjAwNzU5NTA2My4xNzYxMDY0NDcy*_ga_FQG8R1PZSM*czE3NjIxNjM3MTMkbzgkZzEkdDE3NjIxNjQxMDEkajYwJGwwJGgw).
 
 ⚠️ **Applications as part of the [Physics of Complex System Master](https://physics-complex-systems.fr/)**
+
 Application period : March 26 to June 2026 ([Sorbonne Université](https://sciences.sorbonne-universite.fr/formation-sciences/candidatures-et-inscriptions/master), [Université Paris Cité](https://ecandidat.app.u-pariscite.fr/sciences1/#!accueilView), [Université Paris Saclay](https://www.universite-paris-saclay.fr/en/admission/masters-applications-and-enrolment))
 
 

@@ -31,8 +31,8 @@ Alumni pursue diverse careers in academia, industry, and deep-tech innovation �
 #### Claire N. — *2018 cohort*
 **R&D Engineer, Michelin · Clermont-Ferrand, France**
 
-Claire completed her PhD at ESPCI Paris (2019–2023) on surfactant-free emulsions, in collaboration with the Weitz lab at Harvard University.
-Her doctoral work led to a publication in ***Science*** (2024), covered by *Le Monde*.
+Claire completed her PhD at ESPCI Paris (2019–2023) on surfactant-free emulsions.
+Her doctoral work led to a publication in ***Science*** (2024), covered by *Le Monde*.\
 She now leads composite materials development at Michelin, managing projects across Europe, Asia, and the Americas.
 
 ---

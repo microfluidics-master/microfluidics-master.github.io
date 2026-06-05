@@ -1,5 +1,5 @@
 ---
-title: "What is Microfluidics ?"
+title: "Microfluidics ?"
 layout: page
 permalink: /microfluidics/
 hide_title: true

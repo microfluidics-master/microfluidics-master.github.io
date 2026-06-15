@@ -1,7 +1,3 @@
-/* example overrides 
-body { border: 10px solid pink; box-sizing: border-box; margin: 0; height: 100vh; }
-.site-title { color: hotpink !important; }
-/* add more rules here */
 
 .calendar-embed {
   position: relative;

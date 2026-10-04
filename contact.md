@@ -3,9 +3,6 @@ title: "Contact"
 layout: page
 permalink: /contact/
 hide_title: true
-redirect_from:
-  - /stages/
-  - /faire-une-proposition-de-stage/
 ---
 
 <form action="https://formspree.io/f/xeorlejk" method="POST">

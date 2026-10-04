@@ -20,7 +20,7 @@ hide_title: true
   <input type="text" name="_gotcha" style="display:none">
   <!-- Redirect after submit -->
   
-  <input type="hidden" name="_redirect" value="https://microfluidics-master.github.io">
+  <input type="hidden" name="_redirect" value="https://microfluidics-master.fr/">
   
   <button type="submit">Send</button>
 </form>

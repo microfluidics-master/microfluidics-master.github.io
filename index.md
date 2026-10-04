@@ -4,6 +4,21 @@ title: "Home"
 hide_title: true
 ---
 
+<div class="hero-band">
+  <div class="stats">
+    <div><span class="num">75%</span><span class="lbl">go on to a PhD</span></div>
+    <div><span class="num">93%</span><span class="lbl">graduation rate</span></div>
+    <div><span class="num">20+</span><span class="lbl">nationalities</span></div>
+    <div><span class="num">74</span><span class="lbl">graduates since 2018</span></div>
+  </div>
+  <p class="cta">
+    <a class="btn" href="/apply/">How to apply / Candidater</a>
+    <a class="btn btn-ghost" href="/alumni/">Where our alumni go</a>
+  </p>
+  <p class="alumni-teaser">Our graduates now work at <strong>Michelin</strong>, <strong>Chemspeed</strong>, <strong>TreeFrog Therapeutics</strong>, <strong>Strategy&amp;</strong>, and do their PhDs at <strong>ETH Zürich</strong>, <strong>KTH</strong>, <strong>ESPCI</strong>…</p>
+</div>
+
+
 
 
 ### Master 2 en Microfluidique – En bref
@@ -23,8 +38,9 @@ Les diplômés rejoignent aussi bien le monde académique que les laboratoires d
 
 👉 Plus de détails : [Description complète du programme](francais.md)
 
----
+
 ![Microscope and Microfluidic Chip](/assets/images/Bandeau.jpg)
+
 ---
 
 ### Master 2 in Microfluidics – At a Glance

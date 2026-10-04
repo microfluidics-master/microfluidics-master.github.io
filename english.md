@@ -3,6 +3,13 @@ layout: page
 title: English
 permalink: /english/
 hide_title: true
+redirect_from:
+  - /degree-information/
+  - /faculty/
+  - /semester-2-long-internship/
+  - /students/
+  - /about/
+  - /syllabus/
 ---
 
 

@@ -3,6 +3,8 @@ layout: page
 title: Resources
 permalink: /resources/
 hide_title: true
+redirect_from:
+  - /ressources-pour-debuter/
 ---
 
 ## Syllabus

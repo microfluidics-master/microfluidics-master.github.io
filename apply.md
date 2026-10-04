@@ -3,6 +3,10 @@ layout: page
 title: Apply
 permalink: /apply/
 hide_title: true
+redirect_from:
+  - /candidature/
+  - /application/
+  - /prospective-students/
 ---
 
 

@@ -1,14 +1,24 @@
 <footer class="site-footer">
-  <p>© {{ site.time | date: "%Y" }} {{ site.title }}</p>
-
-  {% if site.ga_measurement_id %}
-  <!-- Google Analytics (GA4) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_measurement_id }}"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', '{{ site.ga_measurement_id }}');
-  </script>
-  {% endif %}
+  <div class="footer-grid wrapper">
+    <div class="footer-id">
+      <p class="footer-title">Master 2 Microfluidics &amp; Miniaturization</p>
+      <p>Institut Pierre-Gilles de Gennes<br>6 rue Jean Calvin, 75005 Paris</p>
+      <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+    </div>
+    <div class="footer-links">
+      <p class="footer-head">Programme</p>
+      <a href="{{ '/english/' | relative_url }}">Program (EN)</a>
+      <a href="{{ '/francais/' | relative_url }}">Programme (FR)</a>
+      <a href="{{ '/alumni/' | relative_url }}">Alumni</a>
+      <a href="{{ '/resources/' | relative_url }}">Resources</a>
+    </div>
+    <div class="footer-links">
+      <p class="footer-head">Contact</p>
+      <a href="{{ '/apply/' | relative_url }}">Apply / Candidater</a>
+      <a href="{{ '/faire-une-proposition-de-stage/' | relative_url }}">Proposer un stage</a>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+      <a href="{{ '/calendar/' | relative_url }}">Espace étudiants</a>
+    </div>
+  </div>
+  <div class="footer-bottom"><div class="wrapper">© {{ site.time | date: "%Y" }} {{ site.title }} · Sorbonne Université · PSL · Université Paris Cité · Université Paris-Saclay</div></div>
 </footer>

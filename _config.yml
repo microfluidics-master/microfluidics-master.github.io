@@ -12,16 +12,16 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-paginate: 6
 
 
 # Minima options (optional)
 minima:
-  skin: solarized   # classic, dark, solarized, auto, etc.
+  skin: classic
   nav_pages:
     - index.md
     - microfluidics.md
@@ -31,6 +31,7 @@ minima:
     - alumni.md
     - calendar.md
     - resources.md
+    - stage.md
 
 # Author info
 author:

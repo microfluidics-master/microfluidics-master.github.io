@@ -21,7 +21,7 @@ description: "Master 2 Microfluidique & Miniaturisation, Institut Pierre-Gilles 
     <a class="btn" href="/candidater/">Comment candidater</a>
     <a class="btn btn-ghost" href="/fr/alumni/">Que deviennent nos diplômés ?</a>
   </p>
-  <p class="alumni-teaser">Nos diplômés travaillent aujourd'hui chez <strong>Michelin</strong>, <strong>Chemspeed</strong>, <strong>TreeFrog Therapeutics</strong>, <strong>Strategy&amp;</strong>, et préparent leur thèse à l'<strong>ETH Zürich</strong>, au <strong>KTH</strong>, à l'<strong>ESPCI</strong>…</p>
+  <p class="alumni-teaser"><strong>Thèse, R&amp;D industrielle, start-ups deep-tech, conseil :</strong> nos diplômés construisent des parcours variés, en France et à l'international.</p>
 </div>
 
 ## En bref

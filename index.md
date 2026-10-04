@@ -19,7 +19,7 @@ lang_alt: /accueil/
     <a class="btn" href="/apply/">How to apply / Candidater</a>
     <a class="btn btn-ghost" href="/alumni/">Where our alumni go</a>
   </p>
-  <p class="alumni-teaser">Our graduates now work at <strong>Michelin</strong>, <strong>Chemspeed</strong>, <strong>TreeFrog Therapeutics</strong>, <strong>Strategy&amp;</strong>, and do their PhDs at <strong>ETH Zürich</strong>, <strong>KTH</strong>, <strong>ESPCI</strong>…</p>
+  <p class="alumni-teaser"><strong>PhD, industrial R&amp;D, deep-tech start-ups, consulting:</strong> our graduates build varied careers, in France and abroad.</p>
 </div>
 
 

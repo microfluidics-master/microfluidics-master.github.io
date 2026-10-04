@@ -29,6 +29,30 @@
 {% endif %}
 
 
+
+{%- if page.url == '/' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalProgram",
+  "name": "Master 2 in Microfluidics and Miniaturization",
+  "alternateName": "Master 2 Microfluidique",
+  "description": "One-year interdisciplinary Master 2 (60 ECTS) in microfluidics at the interface of physics, chemistry and biology, hosted by the Institut Pierre-Gilles de Gennes (IPGG), Paris.",
+  "url": "{{ site.url }}/",
+  "timeToComplete": "P1Y",
+  "educationalCredentialAwarded": "Master 2 (60 ECTS)",
+  "inLanguage": ["en", "fr"],
+  "provider": [
+    {"@type": "CollegeOrUniversity", "name": "Université PSL", "sameAs": "https://psl.eu"},
+    {"@type": "CollegeOrUniversity", "name": "Sorbonne Université", "sameAs": "https://www.sorbonne-universite.fr"},
+    {"@type": "CollegeOrUniversity", "name": "Université Paris Cité", "sameAs": "https://u-paris.fr"},
+    {"@type": "CollegeOrUniversity", "name": "Université Paris-Saclay", "sameAs": "https://www.universite-paris-saclay.fr"},
+    {"@type": "Organization", "name": "Institut Pierre-Gilles de Gennes pour la microfluidique", "sameAs": "https://www.institut-pgg.fr/"}
+  ]
+}
+</script>
+{%- endif %}
+
 {%- comment -%} Google Analytics (GA4) — loaded ONCE, production only {%- endcomment -%}
 {% if jekyll.environment == "production" and site.ga_measurement_id %}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_measurement_id }}"></script>

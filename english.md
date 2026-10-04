@@ -29,8 +29,8 @@ The **Master 2 in Microfluidics & Miniaturization** is a one-year, interdiscipli
 
 The program is part of two internationally recognized degrees. Your home degree depends on your background.
 
-<div class="glance" markdown="1">
-<div markdown="1">
+<div class="course-grid" markdown="1">
+<div class="course" markdown="1">
 
 ### Physics of Complex Systems
 *For physics backgrounds.*
@@ -40,7 +40,7 @@ Sorbonne Université, Université Paris Cité, Université Paris-Saclay.
 [Master's website](https://physics-complex-systems.fr/)
 
 </div>
-<div markdown="1">
+<div class="course" markdown="1">
 
 ### Materials Science and Engineering
 *For chemistry and biology backgrounds.*
@@ -80,7 +80,12 @@ A **unique combination** of advanced scientific training, hands-on technology an
 
 Core topics: **microfabrication and surface functionalization**, **microscale hydrodynamics and soft matter**, **lab-on-a-chip and flow chemistry**, **droplet biochemistry, single-cell analysis and organ-on-chip**. See the [full curriculum and faculty](/curriculum/).
 
-![Pictures of the practicals](/assets/images/Montage-Small.jpg)
+<div class="gallery">
+  <figure><img src="/assets/images/practicals2.jpg" alt="Imaging station" loading="lazy"><figcaption>Imaging station</figcaption></figure>
+  <figure><img src="/assets/images/practicals3.jpg" alt="Sample preparation bench" loading="lazy"><figcaption>Sample preparation bench</figcaption></figure>
+  <figure><img src="/assets/images/practicals4.jpg" alt="Fluorescence microscope" loading="lazy"><figcaption>Fluorescence microscope</figcaption></figure>
+  <figure><img src="/assets/images/practicals5.jpg" alt="Microfluidic chip with tubing" loading="lazy"><figcaption>Microfluidic chip with tubing</figcaption></figure>
+</div>
 
 ## Innovation and industry
 

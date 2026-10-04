@@ -29,8 +29,8 @@ Le **Master 2 Microfluidique & Miniaturisation** est un programme interdisciplin
 
 Le programme s'inscrit dans deux diplômes reconnus internationalement. Votre diplôme de rattachement dépend de votre formation.
 
-<div class="glance" markdown="1">
-<div markdown="1">
+<div class="course-grid" markdown="1">
+<div class="course" markdown="1">
 
 ### Physique des Systèmes Complexes
 *Pour les profils physique.*
@@ -40,7 +40,7 @@ Sorbonne Université, Université Paris Cité, Université Paris-Saclay.
 [Site du Master](https://physics-complex-systems.fr/)
 
 </div>
-<div markdown="1">
+<div class="course" markdown="1">
 
 ### Sciences et Génie des Matériaux
 *Pour les profils chimie et biologie.*
@@ -80,7 +80,12 @@ Une **combinaison unique** de formation scientifique avancée, de pratique techn
 
 Thématiques principales : **microfabrication et fonctionnalisation de surfaces**, **hydrodynamique aux petites échelles et matière molle**, **lab-on-a-chip et chimie en flux**, **biochimie en gouttelettes, analyse unicellulaire et organes-sur-puce**. Voir le [cursus complet et l'équipe enseignante](/curriculum/).
 
-![Photos des travaux pratiques](/assets/images/Montage-Small.jpg)
+<div class="gallery">
+  <figure><img src="/assets/images/practicals2.jpg" alt="Poste d'imagerie" loading="lazy"><figcaption>Poste d'imagerie</figcaption></figure>
+  <figure><img src="/assets/images/practicals3.jpg" alt="Paillasse de préparation" loading="lazy"><figcaption>Paillasse de préparation</figcaption></figure>
+  <figure><img src="/assets/images/practicals4.jpg" alt="Microscope à fluorescence" loading="lazy"><figcaption>Microscope à fluorescence</figcaption></figure>
+  <figure><img src="/assets/images/practicals5.jpg" alt="Puce microfluidique et tubulures" loading="lazy"><figcaption>Puce microfluidique et tubulures</figcaption></figure>
+</div>
 
 ## Innovation et industrie
 

@@ -21,7 +21,7 @@ The Master 2 runs from September to June/July and is worth **60 ECTS**. Semester
 ### Micro-hydrodynamics
 <span class="lec-badge">Lectures</span>
 
-**Instructors:** N. Brémond, J. McGraw, S. Aimé (ESPCI Paris)
+**Instructors:** [N. Brémond](https://www.lcmd.espci.fr/people/NicolasBremond/Home.html), J. McGraw, S. Aimé (ESPCI Paris)
 
 Navier-Stokes and low-Reynolds flows, modes of transport, interfacial hydrodynamics, emulsions and sprays, lubrication flows and nanofluidics, PIV and PTV.
 </div>
@@ -30,7 +30,7 @@ Navier-Stokes and low-Reynolds flows, modes of transport, interfacial hydrodynam
 ### Microfabrication
 <span class="lec-badge">Lectures</span> <span class="lab-badge">Lab classes</span>
 
-**Instructors:** J. Fattaccioli, M. Morel (Department of Chemistry, ENS)
+**Instructors:** [J. Fattaccioli](https://fattaccioli.github.io), M. Morel (Department of Chemistry, ENS)
 
 Silicon microfabrication (lithography, etching, deposition), PDMS and NOA, surface functionalization.
 
@@ -41,7 +41,7 @@ Silicon microfabrication (lithography, etching, deposition), PDMS and NOA, surfa
 ### Introduction to biology
 <span class="lec-badge">Lectures</span>
 
-**Instructors:** L. Tricoire (CNRS, Sorbonne Université), W. Keil (CNRS, Institut Curie)
+**Instructors:** [L. Tricoire](https://www.ibps.sorbonne-universite.fr/en/ibps/directory/17704-Ludovic-Tricoire) (CNRS, Sorbonne Université), [W. Keil](https://institut-curie.org/team/keil) (CNRS, Institut Curie)
 
 DNA, gene expression, protein structure, methods for DNA, RNA and protein analysis, microfluidic approaches to genomics, gene editing, model organisms.
 </div>
@@ -50,7 +50,7 @@ DNA, gene expression, protein structure, methods for DNA, RNA and protein analys
 ### From soft to active matter
 <span class="lec-badge">Lectures</span>
 
-**Instructors:** P. Silberzan (Institut Curie), M. Théry (ESPCI Paris)
+**Instructors:** [P. Silberzan](https://institut-curie.org/person/pascal-silberzan) (Institut Curie), [M. Théry](https://www.cbi.espci.fr/accueil-22/equipes/cytomorpho-lab/) (ESPCI Paris)
 
 Cell monolayers, microswimmers and chemotaxis, collective behavior of bacteria and cells, the cytoskeleton.
 </div>
@@ -59,7 +59,7 @@ Cell monolayers, microswimmers and chemotaxis, collective behavior of bacteria a
 ### Single molecule approaches and super-resolution imaging
 <span class="lec-badge">Lectures</span>
 
-**Instructor:** B. Hajj (CNRS, Institut Curie)
+**Instructor:** [B. Hajj](https://institut-curie.org/person/bassam-hajj) (CNRS, Institut Curie)
 
 Fluorescence microscopy, fluorescent markers, single-molecule detection and tracking, super-resolution microscopy.
 </div>
@@ -68,7 +68,7 @@ Fluorescence microscopy, fluorescent markers, single-molecule detection and trac
 ### Capillary and wetting phenomena
 <span class="lec-badge">Lectures</span>
 
-**Instructors:** D. Quéré (ESPCI Paris), H. de Maleprade (Sorbonne Université)
+**Instructors:** D. Quéré (ESPCI Paris), [H. de Maleprade](https://hdemaleprade.wixsite.com/mysite) (Sorbonne Université)
 
 Soft matter seen from its interfaces: surface energy, adsorption, wetting, capillarity, with scaling-law approaches built on key experiments.
 </div>
@@ -77,7 +77,7 @@ Soft matter seen from its interfaces: surface energy, adsorption, wetting, capil
 ### Soft matter
 <span class="lec-badge">Lectures</span>
 
-**Instructors:** C. Trégouët, T. Derkenne (ESPCI Paris)
+**Instructor:** [C. Trégouët](https://blog.espci.fr/tregouet/) (ESPCI Paris)
 
 Thermodynamics and statistical physics, diffusion, surface forces, polymer physics, capillary and acoustic waves, phase separation.
 </div>
@@ -86,7 +86,7 @@ Thermodynamics and statistical physics, diffusion, surface forces, polymer physi
 ### Blue energy
 <span class="lec-badge">Lectures</span>
 
-**Instructors:** C. Trégouët, T. Derkenne (ESPCI Paris)
+**Instructor:** [C. Trégouët](https://blog.espci.fr/tregouet/) (ESPCI Paris)
 
 Osmotic energy and mixing entropy, capacitive mixing and reverse electrodialysis, charge separation and transport, current challenges.
 </div>
@@ -95,7 +95,7 @@ Osmotic energy and mixing entropy, capacitive mixing and reverse electrodialysis
 ### Rheology
 <span class="lec-badge">Lectures</span> <span class="lab-badge">Lab classes</span>
 
-**Instructor:** A. Lindner (Université Paris Cité)
+**Instructor:** [A. Lindner](https://blog.espci.fr/alindner/people/principal-investigator/) (Université Paris Cité)
 
 Classic and microfluidic rheometry, non-Newtonian behavior, complex fluids (polymers, suspensions, gels, active fluids).
 </div>
@@ -104,7 +104,7 @@ Classic and microfluidic rheometry, non-Newtonian behavior, complex fluids (poly
 ### Analytical chemistry
 <span class="lec-badge">Lectures</span>
 
-**Instructors:** F. d'Orlye (Chimie ParisTech), K. Perez-Toralla (CEA), J. Baudry (ESPCI Paris)
+**Instructors:** F. d'Orlye (Chimie ParisTech), K. Perez-Toralla (CEA), [J. Baudry](https://www.lcmd.espci.fr/page_equipe.php?lg=uk) (LCMD, ESPCI Paris)
 
 Miniaturization for analytical chemistry, physics of immunoassays, from basic to advanced setups.
 </div>
@@ -122,7 +122,7 @@ Mass and heat transfer at the millifluidic scale, reactor design, industrial exa
 ### Organ-on-chip
 <span class="lec-badge">Lectures</span>
 
-**Instructors:** S. Descroix (Institut Curie), C. Aimé (ENS), L. Muller (ENS), S. Coscoy (Institut Curie)
+**Instructors:** [S. Descroix](https://institut-curie.org/person/stephanie-descroix) (Institut Curie), C. Aimé (ENS), L. Muller (ENS), [S. Coscoy](https://institut-curie.org/person/sylvie-coscoy) (Institut Curie)
 
 Collagen and extracellular matrix, organ models for pharmacology and basic science (intestine, heart, lung), plants and fungi on chip.
 </div>

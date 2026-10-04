@@ -14,7 +14,11 @@ redirect_from:
   - /cours-invites/
 ---
 
-Le **Master 2 Microfluidique & Miniaturisation** est un programme interdisciplinaire d'un an, à l'interface de la physique, de la chimie et de la biologie, soutenu par l'[Institut Pierre-Gilles de Gennes (IPGG)](https://www.institut-pgg.fr/). Il est tourné vers **la recherche, l'innovation et les applications industrielles**, et constitue l'une des voies les plus rapides pour rejoindre l'**écosystème des start-ups** de la microfluidique.
+<p class="lead">Le <strong>Master 2 Microfluidique &amp; Miniaturisation</strong> forme, en un an, des scientifiques et des ingénieur·e·s capables de <strong>concevoir, fabriquer et utiliser des dispositifs qui manipulent les fluides à l'échelle du micromètre</strong>.</p>
+
+À l'interface de la **physique, de la chimie, de la biologie et de l'ingénierie**, ces « laboratoires sur puce » servent aussi bien à la recherche fondamentale qu'à des applications concrètes : diagnostic, médicaments, chimie, énergie.
+
+Soutenu par l'[Institut Pierre-Gilles de Gennes (IPGG)](https://www.institut-pgg.fr/), le programme associe **cours, travaux pratiques intensifs et stage de recherche**. Il est tourné vers **la recherche, l'innovation et les applications industrielles**, et constitue l'une des voies les plus rapides pour rejoindre l'**écosystème des start-ups** de la microfluidique.
 
 <div class="num-grid">
   <div><span class="num">60</span><span class="lbl">ECTS, de septembre à juin/juillet</span></div>

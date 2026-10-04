@@ -9,20 +9,19 @@ redirect_from:
 
 ## Syllabus
 
-Indicative syllabus (as in 2025) : [Download](assets/documents/Syllabus_2025.pdf)
+Indicative syllabus (as in 2025): [Download PDF](/assets/documents/Syllabus_2025.pdf)
 
 ## Introductory Books
 
 - **How the World Flows: Microfluidics from Raindrops to Covid Tests** A. Folch (Oxford University Press) [link](https://academic.oup.com/book/59761)
 
 
-
-| ![Cover 1](assets/images/folch.jpeg) | ![Cover 2](assets/images/capillarity_and_wetting_phenomena_thumbnail.jpg) |
+![Cover of How the World Flows](/assets/images/folch.jpeg){: .book-cover} ![Cover of Capillarity and Wetting Phenomena](/assets/images/capillarity_and_wetting_phenomena_thumbnail.jpg){: .book-cover}
 
 ## Books
 
 - **Introduction à la microfluidique.** P. Tabeling (Belin) — [link](https://www.amazon.fr/Introduction-%C3%A0-microfluidique-P-Tabeling/dp/2701135001/ref=sr_1_1?s=books&ie=UTF8&qid=1520548930&sr=1-1&keywords=9782701135007&dpID=51YEDW60ZSL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
-- **Introduction to Microfluidics.** P. Tabeling (Oxford Univesity Press)
+- **Introduction to Microfluidics.** P. Tabeling (Oxford University Press)
 - **Microfluidics for biotechnology.** J. Berthier and P. Silberzan — [link](https://www.amazon.fr/Microfluidics-Biotechnology-Microelectromechanical-Berthier-2005-10-31/dp/B01JXRO5BU/ref=sr_1_1?s=books&ie=UTF8&qid=1520548993&sr=1-1&keywords=silberzan&dpID=41j1OG%252Bn4VL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
 - **Introduction to micro fabrication.** S. Franssila (Wiley) — [link](https://www.amazon.fr/Introduction-Microfabrication-Sami-Franssila-2010-10-25/dp/B01FKROG0M/ref=sr_1_2?s=books&ie=UTF8&qid=1520549072&sr=1-2&keywords=microfabrication+franssila&dpID=51FtSfIRR3L&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
 - **Gouttes, bulles, perles et ondes.** P.G. de Gennes, F. Brochard-Wyart, D. Quéré (Belin) — [link](https://www.belin-editeur.com/gouttes-bulles-perles-et-ondes)
@@ -39,10 +38,9 @@ Indicative syllabus (as in 2025) : [Download](assets/documents/Syllabus_2025.pdf
 
 - **MEMScyclopedia**: <https://memscyclopedia.org>
 - **Conférence expérimentale à l'ESPGG**: [La microfluidique, une plomberie à l’échelle d’une puce](https://www.youtube.com/watch?v=INjHPUbAlSk)
-MD
 
 ## Online tutorials and tools
 
-- Using KLayout Software : a Youtube [tutorial](https://www.youtube.com/playlist?list=PL12BCN5zxKhysQPbl0Fy0a6x0fiCPJZB-)
-- ImageJ Online [link](https://ij.imjoy.io/)
+- KLayout software: YouTube [tutorial](https://www.youtube.com/playlist?list=PL12BCN5zxKhysQPbl0Fy0a6x0fiCPJZB-)
+- ImageJ Online: [link](https://ij.imjoy.io/)
 - MOOC : Image Analysis for Life Scientists from [EPFL](https://courseware.epfl.ch/courses/course-v1:EPFL+IPA4LS+2019_t3/about)

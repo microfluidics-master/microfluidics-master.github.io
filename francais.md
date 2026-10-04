@@ -11,7 +11,6 @@ redirect_from:
   - /philosophie/
   - /cours-invites/
 ---
-
 Le **Master en Microfluidique** (Master 2) est un **programme interdisciplinaire** soutenu par l’[**Institut Pierre-Gilles de Gennes (IPGG)**](https://www.institut-pgg.fr/).  
 Il est orienté vers **l’innovation, la recherche et les applications industrielles**, et constitue l’une des voies les plus rapides pour rejoindre l’**écosystème des start-ups** dans le domaine de la microfluidique.
 
@@ -19,10 +18,7 @@ Ce programme s’inscrit dans deux diplômes de Master reconnus internationaleme
 
 - **[Physique des Systèmes Complexes](https://physics-complex-systems.fr/)** (Sorbonne Université, Université Paris Cité, Université Paris-Saclay) – pour les étudiants issus de la physique.  
 - **[Sciences et Génie des Matériaux](https://psl.eu/formation/master-sciences-et-genie-des-materiaux)** (Université PSL) – pour les étudiants en chimie ou en biologie.  
-
----
-
-### Pourquoi rejoindre le Master en Microfluidique ?
+## Pourquoi rejoindre le Master en Microfluidique ?
 
 Le programme offre une **combinaison unique** de formation scientifique avancée, d’expérience de recherche de pointe et d’ouverture à l’innovation.  
 Deux atouts principaux caractérisent l’expérience étudiante :
@@ -35,10 +31,7 @@ Les étudiants apprennent à raisonner comme des scientifiques et des ingénieur
 - Un corps enseignant composé d’experts de renommée internationale  
 - L’accès à des plateformes expérimentales de pointe  
 - Une immersion dans une culture de l’innovation, au contact de start-ups et d’incubateurs  
-
----
-
-### Un lieu unique
+## Un lieu unique
 
 La vie étudiante se déroule **au cœur de Paris**, dans le Quartier latin – haut lieu historique de la science française.  
 Le campus de l’IPGG est à proximité immédiate d’institutions de renommée mondiale telles que :
@@ -51,10 +44,7 @@ Le campus de l’IPGG est à proximité immédiate d’institutions de renommée
 
 Cette proximité favorise **des échanges interdisciplinaires constants**.  
 Paris est également une **métropole dynamique et internationale**, offrant un accès direct à **l’Université Paris-Saclay, l’Université Paris Cité, et de nombreux pôles d’innovation**.  
-
----
-
-### Aperçu du cursus
+## Aperçu du cursus
 
 Le programme se déroule de **septembre à juin/juillet** et correspond à **60 ECTS**.
 
@@ -62,7 +52,7 @@ Le programme se déroule de **septembre à juin/juillet** et correspond à **60 
 - **Projet de recherche (3 ECTS)** → Réalisé au premier semestre dans un laboratoire de l’IPGG.  
 - **Mémoire et stage de Master (30 ECTS)** → Stage de 5 à 6 mois, en France ou à l’étranger, avec soutenance devant un jury.  
 
-#### Thématiques principales
+### Thématiques principales
 
 **Technologie**  
 - Micro- et nanofabrication : silicium, PDMS, plastiques, électronique flexible  
@@ -81,10 +71,7 @@ Le programme se déroule de **septembre à juin/juillet** et correspond à **60 
 - Biochimie en gouttelettes et analyse unicellulaire  
 - Comportements cellulaires individuels et collectifs sur dispositifs microfabriqués  
 - Organes-sur-puce  
-
----
-
-### Formation pratique
+## Formation pratique
 
 Dès le début, les étudiants bénéficient d’une **formation expérimentale intensive** sur la plateforme technologique de l’IPGG, pour apprendre à **concevoir, fabriquer et manipuler des dispositifs microfluidiques**.  
 
@@ -93,10 +80,7 @@ Cette formation est complétée par :
 - Un mémoire de Master (30 ECTS) au second semestre, effectué en laboratoire ou en entreprise, en France ou à l’étranger.  
 
 ![Pictures of the practicals](assets/images/Montage-Small.jpg)
-
----
-
-### Innovation et liens avec l’industrie
+## Innovation et liens avec l’industrie
 
 La microfluidique est un moteur de l’**entrepreneuriat deep-tech**.  
 Le programme s’appuie sur des liens étroits avec les écosystèmes d’innovation :  
@@ -105,10 +89,7 @@ Le programme s’appuie sur des liens étroits avec les écosystèmes d’innova
 - Bureau de transfert technologique **Tremplin Carnot IPGG TT**  
 
 Les étudiants rencontrent régulièrement des start-ups et des industriels, et de nombreuses entreprises sont directement issues des laboratoires de l’IPGG.  
-
----
-
-### Équipe enseignante
+## Équipe enseignante
 
 L’enseignement est assuré par des **chercheurs de premier plan** de la région parisienne, dont :  
 
@@ -120,12 +101,9 @@ L’enseignement est assuré par des **chercheurs de premier plan** de la régio
 - **École Normale Supérieure**: C. Aimé, M. Morel, J. Fattaccioli, L. Muller 
 - **Université Paris Cité**: A. Lindner, N. Desprat  
 - **Institut Pierre-Gilles de Gennes**: B. Cinquin
-
----
-
-### Liens utiles
+## Liens utiles
 
 - Site officiel : [microfluidics-master.fr](http://microfluidics-master.fr)  
-- Institut Pierre-Gilles de Gennes : [ipgg.fr](https://www.institut-pgg.fr/)  
+- Institut Pierre-Gilles de Gennes : [ipgg.fr](https://www.institut-pgg.fr/)
 
----
+<p class="page-cta"><a class="btn" href="/apply/">Comment candidater</a> <a class="btn btn-ghost" href="/alumni/">Que deviennent nos diplômés ?</a></p>

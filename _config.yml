@@ -22,7 +22,7 @@ paginate: 6
 
 # Minima options (optional)
 minima:
-  skin: solarized   # classic, dark, solarized, auto, etc.
+  skin: classic
   nav_pages:
     - index.md
     - microfluidics.md

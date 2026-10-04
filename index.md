@@ -38,8 +38,9 @@ Les diplômés rejoignent aussi bien le monde académique que les laboratoires d
 
 👉 Plus de détails : [Description complète du programme](francais.md)
 
----
+
 ![Microscope and Microfluidic Chip](/assets/images/Bandeau.jpg)
+
 ---
 
 ### Master 2 in Microfluidics – At a Glance

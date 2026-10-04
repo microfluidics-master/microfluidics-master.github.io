@@ -7,6 +7,12 @@
 <!-- Google Search Console verification -->
 <meta name="google-site-verification" content="g_4sHt7eLsvXC1UXy6xiQED0adpfrWytm_glxnZcbJU" />
 
+{% if page.noindex %}<meta name="robots" content="noindex, nofollow">{% endif %}
+
+<!-- IPGG visual identity: Montserrat -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
 
 <!-- Favicons -->
@@ -22,10 +28,6 @@
 </style>
 {% endif %}
 
-<style>
-  /* Highlight the Apply menu item */
-  .site-nav .page-link[href="{{ '/apply/' | relative_url }}"] { font-weight: 700; }
-</style>
 
 {%- comment -%} Google Analytics (GA4) — loaded ONCE, production only {%- endcomment -%}
 {% if jekyll.environment == "production" and site.ga_measurement_id %}

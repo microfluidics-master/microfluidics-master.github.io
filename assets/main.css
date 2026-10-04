@@ -211,3 +211,7 @@ form input[type="email"], form input[type="text"], form textarea { width: 100%; 
 .gallery figure:hover img { transform: scale(1.04); }
 .gallery figcaption { position: absolute; left: 0; right: 0; bottom: 0; padding: 1.4rem .6rem .45rem; font-size: .75rem; font-weight: 600; color: #fff; background: linear-gradient(transparent, rgba(0,0,0,.65)); }
 @media (max-width: 800px) { .gallery { grid-template-columns: repeat(2, 1fr); } }
+
+/* ---------- Lead paragraph ---------- */
+.post-content .lead { font-size: 1.3rem; line-height: 1.5; font-weight: 500; color: var(--ipgg-blue); margin: 0 0 1rem; padding-left: 1rem; border-left: 4px solid var(--ipgg-orange); }
+.post-content .lead strong { font-weight: 700; }

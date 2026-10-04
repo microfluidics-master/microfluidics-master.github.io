@@ -83,6 +83,7 @@ a:hover { color: var(--ipgg-blue-dark); }
 }
 
 /* ---------- Content ---------- */
+.post-header { border-bottom: 0; padding-bottom: 0; margin-bottom: 1rem; }
 .page-content { padding: 2.2rem 0 3rem; }
 .page-content h1, .page-content h2, .page-content h3, .page-content h4,
 .post-content h1, .post-content h2, .post-content h3, .post-content h4 {
@@ -112,6 +113,8 @@ blockquote { border-left: 4px solid var(--ipgg-orange); color: var(--text); font
 .btn:hover, button:hover { background: var(--ipgg-blue-dark); text-decoration: none; }
 
 /* ---------- Homepage hero band ---------- */
+.post-content p:has(> img.home-banner) { margin: 0; }
+.post-content img.home-banner { display: block; width: 100%; margin: 0 0 1.5rem; }
 .hero-band { margin: 0 0 2.2rem; padding: 1.6rem 1.25rem; background: var(--bg-soft); border-top: 4px solid var(--ipgg-blue); }
 .hero-band .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: .75rem; text-align: center; }
 .hero-band .num { display: block; font-size: 2.1rem; font-weight: 700; line-height: 1.1; color: var(--ipgg-blue); }

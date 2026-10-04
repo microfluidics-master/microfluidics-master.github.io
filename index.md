@@ -4,6 +4,8 @@ title: "Home"
 hide_title: true
 ---
 
+<img class="home-banner" src="/assets/images/Bandeau.jpg" alt="Microscope and Microfluidic Chip">
+
 <div class="hero-band">
   <div class="stats">
     <div><span class="num">75%</span><span class="lbl">go on to a PhD</span></div>
@@ -65,5 +67,3 @@ Les diplômés rejoignent aussi bien le monde académique que les laboratoires d
 
 </div>
 </div>
-
-![Microscope and Microfluidic Chip](/assets/images/Bandeau.jpg)

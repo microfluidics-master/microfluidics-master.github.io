@@ -3,6 +3,9 @@ title: "Contact"
 layout: page
 permalink: /contact/
 hide_title: true
+redirect_from:
+  - /stages/
+  - /faire-une-proposition-de-stage/
 ---
 
 <form action="https://formspree.io/f/xeorlejk" method="POST">
@@ -20,7 +23,7 @@ hide_title: true
   <input type="text" name="_gotcha" style="display:none">
   <!-- Redirect after submit -->
   
-  <input type="hidden" name="_redirect" value="https://microfluidics-master.github.io">
+  <input type="hidden" name="_redirect" value="https://microfluidics-master.fr/">
   
   <button type="submit">Send</button>
 </form>

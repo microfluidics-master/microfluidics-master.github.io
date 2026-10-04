@@ -1,14 +1,8 @@
 <footer class="site-footer">
-  <p>© {{ site.time | date: "%Y" }} {{ site.title }}</p>
-
-  {% if site.ga_measurement_id %}
-  <!-- Google Analytics (GA4) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_measurement_id }}"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', '{{ site.ga_measurement_id }}');
-  </script>
-  {% endif %}
+  <div class="wrapper">
+    <p><strong>{{ site.title }}</strong> · Institut Pierre-Gilles de Gennes, 6 rue Jean Calvin, 75005 Paris</p>
+    <p>Sorbonne Université · Université PSL · Université Paris Cité · Université Paris-Saclay</p>
+    <p><a href="{{ '/apply/' | relative_url }}">Apply</a> · <a href="{{ '/contact/' | relative_url }}">Contact</a> · <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+    <p>© {{ site.time | date: "%Y" }} {{ site.title }}</p>
+  </div>
 </footer>

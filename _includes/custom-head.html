@@ -1,74 +1,54 @@
-{% seo %}
+{%- comment -%}
+  Included by minima's head.html, INSIDE <head>, after {% seo %} (title, description,
+  canonical, Open Graph) and the main stylesheet. Only add extras here:
+  no <head> tag, no <title>, no canonical, no second GA snippet.
+{%- endcomment -%}
 
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Google Search Console verification -->
+<meta name="google-site-verification" content="g_4sHt7eLsvXC1UXy6xiQED0adpfrWytm_glxnZcbJU" />
 
-  <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+<link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
 
-    <!-- Google Search Console Verification-->
-  <meta name="google-site-verification" content="g_4sHt7eLsvXC1UXy6xiQED0adpfrWytm_glxnZcbJU" />
+<!-- Favicons -->
+<link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="any">
+<link rel="icon" type="image/png" sizes="16x16"  href="{{ '/favicon-16x16.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="32x32"  href="{{ '/favicon-32x32.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="192x192" href="{{ '/android-chrome-192x192.png' | relative_url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}">
 
-  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ '/feed.xml' | relative_url }}">
+{% if page.hide_title %}
+<style>
+  .page-header .page-title, .post-header .post-title, .page-header .page-heading { display: none !important; }
+</style>
+{% endif %}
 
-  <!-- Legacy ICO (covers many browsers) -->
-  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="any">
+<style>
+  /* Highlight the Apply menu item */
+  .site-nav .page-link[href="{{ '/apply/' | relative_url }}"] { font-weight: 700; }
+</style>
 
-  <!-- PNG favicons -->
-  <link rel="icon" type="image/png" sizes="16x16"  href="{{ '/favicon-16x16.png' | relative_url }}">
-  <link rel="icon" type="image/png" sizes="32x32"  href="{{ '/favicon-32x32.png' | relative_url }}">
-  <link rel="icon" type="image/png" sizes="192x192" href="{{ '/android-chrome-192x192.png' | relative_url }}">
+{%- comment -%} Google Analytics (GA4) — loaded ONCE, production only {%- endcomment -%}
+{% if jekyll.environment == "production" and site.ga_measurement_id %}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_measurement_id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.ga_measurement_id }}');
 
-  <!-- Apple Touch -->
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}">
-
-
-  <!-- _includes/custom-head.html -->
-  <link rel="alternate" href="{{ '/english/'  | relative_url | absolute_url }}"  hreflang="en">
-  <link rel="alternate" href="{{ '/francais/' | relative_url | absolute_url }}"  hreflang="fr">
-  <link rel="alternate" href="{{ '/' | absolute_url }}" hreflang="x-default">
-
-  {% if page.hide_title %}
-  <style>
-    .page-header .page-title,
-    .post-header .post-title,
-    .page-header .page-heading {
-      display: none !important;
+  // Explicit events for the recruitment funnel (mark them as key events in GA4):
+  //   apply_portal_click — click towards an application portal
+  //   contact_email_click — click on the program email address
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('a[href]');
+    if (!a) return;
+    var href = a.href || '';
+    var portals = /espacecandidature\.psl\.eu|ecandidat|universite-paris-saclay\.fr|sciences\.sorbonne-universite\.fr|monmaster\.gouv\.fr/i;
+    if (portals.test(href)) {
+      gtag('event', 'apply_portal_click', { link_url: href, page_path: location.pathname });
+    } else if (href.indexOf('mailto:') === 0) {
+      gtag('event', 'contact_email_click', { link_url: href, page_path: location.pathname });
     }
-  </style>
-  {% endif %}
-
-  <style>
-    /* Bold the menu item that links to /microfluidics/ */
-    .site-nav .page-link[href="{{ '/apply/' | relative_url }}"] 
-    {
-    font-weight: 700;
-    }
-  </style>
-
-
-  {%- comment -%}
-  Custom Google Analytics (GA4) injection
-  {%- endcomment -%}
-  {% if jekyll.environment == "production" and site.ga_measurement_id %}
-  
-  <!-- Google Analytics (GA4) -->
-  
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_measurement_id }}"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', '{{ site.ga_measurement_id }}');
-  </script>
-  {% endif %}
-
-  <!-- _includes/custom-head.html -->
-
-
-
-</head>
+  });
+</script>
+{% endif %}

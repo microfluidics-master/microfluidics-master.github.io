@@ -3,6 +3,13 @@ layout: page
 title: Francais
 permalink: /francais/
 hide_title: true
+redirect_from:
+  - /presentation/
+  - /presentation-2/
+  - /enseignements/
+  - /enseignements-old/
+  - /philosophie/
+  - /cours-invites/
 ---
 
 Le **Master en Microfluidique** (Master 2) est un **programme interdisciplinaire** soutenu par l’[**Institut Pierre-Gilles de Gennes (IPGG)**](https://www.institut-pgg.fr/).  

@@ -3,6 +3,8 @@ title: Schedule
 layout: page
 permalink: /calendar/
 hide_title: true
+redirect_from:
+  - /schedule/
 ---
 
 <div class="calendar-embed">

@@ -6,7 +6,6 @@ hide_title: true
 redirect_from:
   - /microfluidics-by-example/
 ---
-
 **Microfluidics** is an interdisciplinary field at the crossroads of **physics**, **chemistry**, **biology**, and **engineering**.  
 It explores how fluids behave, mix, and react in **miniaturized systems** — from droplets a few micrometers wide to complex **organ-on-chip** models.  
 
@@ -14,13 +13,11 @@ Beyond its fundamental aspects, microfluidics has become a powerful **enabling t
 
 By combining **precise flow control**, **advanced microfabrication**, and **interfacial science**, microfluidics offers a unique platform to **mimic biological processes**, **accelerate chemical reactions**, and **design new materials** at the mesoscale.
 
-
 ## Some examples
 
 ### 🌈 High-throughput droplet sorting by fluorescence:
 
  A microfluidic device routes droplets based on their fluorescence signal, reflecting the progress of an encapsulated biochemical reaction.  
-
 
 ![Microfluidic sorting device](assets/images/lbc-sorting.gif)
 
@@ -37,9 +34,6 @@ Microfluidic devices that reproduce the structure and function of living tissues
 ![Gut on a chip](assets/images/gut_on_chip.jpg)
 
 *Source: [Le Journal du CNRS](https://lejournal.cnrs.fr/articles/stephanie-descroix-la-biologiste-qui-met-nos-organes-sur-puce)*
-
----
-
 ### 🌊 Blue Energy
 Harvesting renewable energy from salinity gradients using micro- and nano-fluidic channels.
 
@@ -51,9 +45,6 @@ Harvesting renewable energy from salinity gradients using micro- and nano-fluidi
 ![INOD de Sweetch Energy](assets/images/Energie_Bleue.png)
 
 *Source: [Le Journal du CNRS](https://lejournal.cnrs.fr/articles/stephanie-descroix-la-biologiste-qui-met-nos-organes-sur-puce)*
-
----
-
 ### ⚗️ Flow Chemistry
 Performing chemical reactions in continuously flowing microreactors instead of batch flasks.
 
@@ -66,9 +57,6 @@ Performing chemical reactions in continuously flowing microreactors instead of b
 ![Microfluidic plasma microreactor](assets/images/microfluidique_plasma.jpg)
 
 *Source: [Le Journal du CNRS - See video](https://lejournal.cnrs.fr/videos/la-nouvelle-chimie-des-plasmas)*
-
----
-
 ### 🧫 Organoids & Microfluidics
 3D mini-tissues derived from stem cells, cultured and perfused within microfluidic environments.
 
@@ -77,13 +65,7 @@ Performing chemical reactions in continuously flowing microreactors instead of b
 - **Tumor spheroids**: for testing anticancer drugs in realistic conditions.  
 
 > *Goal: bridge the gap between cell culture and real organs by recreating physiological microenvironments.*
-
----
-
 *Microfluidics is thus not only a scientific discipline, but also a versatile platform enabling innovation across life sciences, materials, and energy.*
-
----
-
 ## Videos
 
 Below are three introductory videos : 
@@ -104,12 +86,7 @@ title="Aventures Microfluidique #3 : Les puces microfluidiques" frameborder="0" 
 
 - [Physics of Complex Systems Master](https://physics-complex-systems.fr)  
 - [PSL – Sciences et Génie des Matériaux Master](https://www.psl.eu)
-
----
-
 ## Friends & Partners
 
 - [Institut Pierre-Gilles de Gennes](https://www.institut-pgg.fr/)  
 - [Microscale Affairs – IPGG seminar series](https://microscaleaffairs.wixsite.com)
-
----

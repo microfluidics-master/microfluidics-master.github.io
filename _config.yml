@@ -19,19 +19,10 @@ markdown: kramdown
 highlighter: rouge
 
 
-# Minima options (optional)
+
+# Minima options
 minima:
   skin: classic
-  nav_pages:
-    - index.md
-    - microfluidics.md
-    - english.md
-    - francais.md
-    - apply.md
-    - alumni.md
-    - calendar.md
-    - resources.md
-    - stage.md
 
 # Author info
 author:

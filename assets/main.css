@@ -31,6 +31,15 @@ a:hover { color: var(--ipgg-blue-dark); }
 .topbar a { color: #fff; text-decoration: none; }
 .topbar a:hover { text-decoration: underline; color: #fff; }
 
+/* Minima caps .wrapper at 800px: use one wider width everywhere so header, content and footer line up */
+.wrapper { max-width: 1100px; }
+.topbar-left { min-width: 0; }
+.topbar-right { white-space: nowrap; display: flex; gap: 1.1rem; align-items: center; }
+.lang-switch a { opacity: .65; } .lang-switch a.on, .lang-switch a:hover { opacity: 1; text-decoration: none; }
+.glance { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 2rem 0; }
+.glance h3 { margin-top: 0; }
+@media (max-width: 800px) { .glance { grid-template-columns: 1fr; gap: 0; } }
+
 /* ---------- Header ---------- */
 .site-header { border-top: 0; border-bottom: 1px solid #e6e6e6; background: #fff; min-height: auto; position: relative; }
 .site-header .wrapper { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; padding-top: .9rem; padding-bottom: .9rem; }
@@ -42,22 +51,30 @@ a:hover { color: var(--ipgg-blue-dark); }
 .brand-title { font-size: 1.05rem; font-weight: 700; color: var(--ipgg-blue); }
 
 .site-nav { float: none; line-height: 1; background: transparent; border: 0; position: static; }
-.site-nav .nav-items { display: flex; flex-wrap: wrap; align-items: center; }
+.site-nav .nav-items { display: flex; flex-wrap: nowrap; align-items: center; }
 .site-nav .nav-item {
   color: var(--muted); font-weight: 700; font-size: .82rem; text-transform: uppercase;
-  text-decoration: none; padding: .35rem .8rem; margin: 0; border-left: 1px solid var(--line);
+  text-decoration: none; white-space: nowrap; padding: .35rem .65rem; margin: 0; border-left: 1px solid var(--line);
 }
 .site-nav .nav-item:first-child { border-left: 0; }
 .site-nav .nav-item:hover, .site-nav .nav-item.active { color: var(--ipgg-blue); }
-.site-nav .nav-item.nav-cta { color: #fff; background: var(--ipgg-orange); border-left: 0; margin-left: .6rem; border-radius: 2px; }
+.site-nav .nav-item.nav-cta { color: #fff; background: var(--ipgg-orange); border-left: 0; margin-left: 1rem; padding: .55rem 1.1rem; border-radius: 2px; }
 .site-nav .nav-item.nav-cta:hover { background: #e69600; color: #fff; }
 .site-nav input[type="checkbox"], .site-nav label[for="nav-trigger"] { display: none; }
 
 @media (max-width: 900px) {
-  .site-nav { position: absolute; top: .9rem; right: 15px; background: #fff; border: 1px solid var(--line); border-radius: 4px; text-align: right; z-index: 10; }
-  .site-nav label[for="nav-trigger"] { display: block; width: 40px; height: 40px; cursor: pointer; }
-  .site-nav .menu-icon { display: block; width: 18px; height: 2px; background: var(--ipgg-blue); margin: 19px auto 0; box-shadow: 0 -6px 0 var(--ipgg-blue), 0 6px 0 var(--ipgg-blue); }
-  .site-nav .nav-items { display: none; flex-direction: column; align-items: stretch; padding: .4rem 0; }
+  .site-nav { position: absolute; top: .9rem; right: 15px; max-width: calc(100vw - 30px); background: #fff; border: 1px solid var(--line); border-radius: 4px; text-align: right; z-index: 10; }
+  .site-header .site-nav label[for="nav-trigger"] { display: block !important; width: 40px; height: 40px; cursor: pointer; }
+  .site-header .site-nav .menu-svg { display: block; margin: 8px; color: var(--ipgg-blue); }
+  .site-header .site-nav .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  .site-header .site-nav label[for="nav-trigger"] { display: flex !important; align-items: center; justify-content: center; }
+  .site-header .wrapper { flex-wrap: nowrap; padding-right: 60px; }
+  .site-brand { min-width: 0; }
+  .brand-logo { height: 46px; }
+  .brand-title { font-size: .9rem; }
+  .topbar .wrapper { justify-content: center; }
+  .topbar-right { white-space: normal; justify-content: center; gap: .8rem; font-size: .7rem; }
+  .site-nav .nav-items { display: none; flex-wrap: wrap; flex-direction: column; align-items: stretch; padding: .4rem 0; }
   .site-nav input:checked ~ .nav-items { display: flex; }
   .site-nav .nav-item { border-left: 0; padding: .7rem 1rem; }
   .site-nav .nav-item.nav-cta { margin: .3rem .6rem; text-align: center; }

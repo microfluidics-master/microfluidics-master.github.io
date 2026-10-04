@@ -1,24 +1,41 @@
 <footer class="site-footer">
   <div class="footer-grid wrapper">
     <div class="footer-id">
-      <p class="footer-title">Master 2 Microfluidics &amp; Miniaturization</p>
+      <p class="footer-title">{% if page.lang == 'fr' %}Master 2 Microfluidique &amp; Miniaturisation{% else %}Master 2 Microfluidics &amp; Miniaturization{% endif %}</p>
       <p>Institut Pierre-Gilles de Gennes<br>6 rue Jean Calvin, 75005 Paris</p>
       <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
     </div>
+    {%- if page.lang == 'fr' %}
     <div class="footer-links">
       <p class="footer-head">Programme</p>
-      <a href="{{ '/english/' | relative_url }}">Program (EN)</a>
-      <a href="{{ '/francais/' | relative_url }}">Programme (FR)</a>
+      <a href="{{ '/francais/' | relative_url }}">Le Master</a>
+      <a href="{{ '/cursus/' | relative_url }}">Cursus &amp; équipe enseignante</a>
+      <a href="{{ '/fr/alumni/' | relative_url }}">Alumni</a>
+      <a href="{{ '/ressources/' | relative_url }}">Ressources</a>
+    </div>
+    <div class="footer-links">
+      <p class="footer-head">Contact</p>
+      <a href="{{ '/candidater/' | relative_url }}">Candidater</a>
+      <a href="{{ '/faire-une-proposition-de-stage/' | relative_url }}">Proposer un stage</a>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+      <a href="{{ '/calendar/' | relative_url }}">Espace étudiant·e·s</a>
+    </div>
+    {%- else %}
+    <div class="footer-links">
+      <p class="footer-head">Programme</p>
+      <a href="{{ '/english/' | relative_url }}">The Master</a>
+      <a href="{{ '/curriculum/' | relative_url }}">Curriculum &amp; faculty</a>
       <a href="{{ '/alumni/' | relative_url }}">Alumni</a>
       <a href="{{ '/resources/' | relative_url }}">Resources</a>
     </div>
     <div class="footer-links">
       <p class="footer-head">Contact</p>
-      <a href="{{ '/apply/' | relative_url }}">Apply / Candidater</a>
-      <a href="{{ '/faire-une-proposition-de-stage/' | relative_url }}">Proposer un stage</a>
+      <a href="{{ '/apply/' | relative_url }}">Apply</a>
+      <a href="{{ '/faire-une-proposition-de-stage/' | relative_url }}">Submit an internship offer</a>
       <a href="{{ '/contact/' | relative_url }}">Contact</a>
-      <a href="{{ '/calendar/' | relative_url }}">Espace étudiants</a>
+      <a href="{{ '/calendar/' | relative_url }}">Student area</a>
     </div>
+    {%- endif %}
   </div>
   <div class="footer-bottom"><div class="wrapper">© {{ site.time | date: "%Y" }} {{ site.title }} · <a href="https://www.sorbonne-universite.fr">Sorbonne Université</a> · <a href="https://psl.eu">PSL</a> · <a href="https://u-paris.fr">Université Paris Cité</a> · <a href="https://www.universite-paris-saclay.fr">Université Paris-Saclay</a> · <a href="https://www.institut-pgg.fr/">IPGG</a></div></div>
 </footer>

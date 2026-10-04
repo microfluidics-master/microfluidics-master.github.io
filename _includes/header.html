@@ -7,31 +7,36 @@
         {%- if page.lang == 'en' %}{% assign en_url = page.url %}{% if page.lang_alt %}{% assign fr_url = page.lang_alt %}{% endif %}{% endif -%}
         {%- if page.lang == 'fr' %}{% assign fr_url = page.url %}{% if page.lang_alt %}{% assign en_url = page.lang_alt %}{% endif %}{% endif -%}
         <a href="{{ fr_url | relative_url }}"{% if page.lang == 'fr' %} class="on"{% endif %}>FR</a> | <a href="{{ en_url | relative_url }}"{% if page.lang == 'en' %} class="on"{% endif %}>EN</a></span>
-      <a href="{{ '/calendar/' | relative_url }}">🔒 Student area</a>
+      <a href="{{ '/calendar/' | relative_url }}">{% if page.lang == 'fr' %}🔒 Espace étudiant·e·s{% else %}🔒 Student area{% endif %}</a>
       <a href="https://www.institut-pgg.fr/">IPGG ↗</a>
     </span>
   </div>
 </div>
 <header class="site-header">
   <div class="wrapper">
-    <a class="site-brand" rel="author" href="{{ '/' | relative_url }}">
+    {%- assign home_url = '/' -%}{%- if page.lang == 'fr' %}{% assign home_url = '/accueil/' %}{% endif -%}
+    <a class="site-brand" rel="author" href="{{ home_url | relative_url }}">
       <img src="{{ site.logo | relative_url }}" alt="Institut Pierre-Gilles de Gennes" class="brand-logo">
       <span class="brand-text">
         <span class="brand-kicker">Master 2</span>
-        <span class="brand-title">Microfluidics &amp; Miniaturization</span>
+        <span class="brand-title">{% if page.lang == 'fr' %}Microfluidique &amp; Miniaturisation{% else %}Microfluidics &amp; Miniaturization{% endif %}</span>
       </span>
     </a>
     <nav class="site-nav">
       <input type="checkbox" id="nav-trigger" />
       <label for="nav-trigger"><svg class="menu-svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/></svg><span class="visually-hidden">Menu</span></label>
       <div class="nav-items">
-        <a class="nav-item{% if page.url == '/english/' or page.url == '/francais/' %} active{% endif %}" href="{{ '/english/' | relative_url }}">The Master</a>
+        {%- if page.lang == 'fr' %}
+        <a class="nav-item{% if page.url == '/francais/' %} active{% endif %}" href="{{ '/francais/' | relative_url }}">Le Master</a>
+        <a class="nav-item{% if page.url == '/microfluidique/' %} active{% endif %}" href="{{ '/microfluidique/' | relative_url }}">Microfluidique</a>
+        <a class="nav-item{% if page.url == '/fr/alumni/' %} active{% endif %}" href="{{ '/fr/alumni/' | relative_url }}">Alumni</a>
+        <a class="nav-item{% if page.url == '/ressources/' %} active{% endif %}" href="{{ '/ressources/' | relative_url }}">Ressources</a>
+        <a class="nav-item nav-cta" href="{{ '/candidater/' | relative_url }}">Candidater</a>
+        {%- else %}
+        <a class="nav-item{% if page.url == '/english/' %} active{% endif %}" href="{{ '/english/' | relative_url }}">The Master</a>
         <a class="nav-item{% if page.url == '/microfluidics/' %} active{% endif %}" href="{{ '/microfluidics/' | relative_url }}">Microfluidics</a>
         <a class="nav-item{% if page.url == '/alumni/' %} active{% endif %}" href="{{ '/alumni/' | relative_url }}">Alumni</a>
         <a class="nav-item{% if page.url == '/resources/' %} active{% endif %}" href="{{ '/resources/' | relative_url }}">Resources</a>
-        {%- if page.lang == 'fr' %}
-        <a class="nav-item nav-cta" href="{{ '/candidater/' | relative_url }}">Candidater</a>
-        {%- else %}
         <a class="nav-item nav-cta" href="{{ '/apply/' | relative_url }}">Apply</a>
         {%- endif %}
       </div>

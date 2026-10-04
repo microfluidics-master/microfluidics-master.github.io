@@ -4,6 +4,8 @@ title: Alumni
 permalink: /alumni/
 meta-author: Microfluidics Program Team
 meta-description: Career outcomes and testimonials from alumni of the M2 Microfluidics program — where they are now, from PhD placements to industry R&D and startups.
+lang: en
+lang_alt: /fr/alumni/
 ---
 Since 2011, the Master 2 Microfluidics program has trained researchers who go on to shape the field — from fundamental soft matter to organ-on-chip systems, liquid biopsy diagnostics, and industrial innovation.
 The profiles below reflect career trajectories from our first cohorts (2018–2020), based on publicly available data.

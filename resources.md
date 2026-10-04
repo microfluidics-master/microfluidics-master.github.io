@@ -5,6 +5,8 @@ permalink: /resources/
 hide_title: true
 redirect_from:
   - /ressources-pour-debuter/
+lang: en
+lang_alt: /ressources/
 ---
 
 ## Syllabus

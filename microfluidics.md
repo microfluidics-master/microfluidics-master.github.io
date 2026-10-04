@@ -6,6 +6,8 @@ hide_title: true
 lang: en
 redirect_from:
   - /microfluidics-by-example/
+lang: en
+lang_alt: /microfluidique/
 ---
 
 **Microfluidics** is the science and technology of fluids in **miniaturized systems**, from droplets a few micrometers wide to complex **organ-on-chip** models. It sits at the crossroads of **physics, chemistry, biology and engineering**.

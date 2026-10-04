@@ -23,7 +23,7 @@ Le **Master 2 Microfluidique & Miniaturisation** est un programme interdisciplin
   <div><span class="num">Paris</span><span class="lbl">Quartier latin, 5<sup>e</sup> arrondissement</span></div>
 </div>
 
-<p class="page-cta"><a class="btn" href="/candidater/">Comment candidater</a> <a class="btn btn-ghost" href="/curriculum/">Cursus &amp; équipe enseignante</a></p>
+<p class="page-cta"><a class="btn" href="/candidater/">Comment candidater</a> <a class="btn btn-ghost" href="/cursus/">Cursus &amp; équipe enseignante</a></p>
 
 ## Deux Masters, un seul programme
 
@@ -78,7 +78,7 @@ Une **combinaison unique** de formation scientifique avancée, de pratique techn
 
 </div>
 
-Thématiques principales : **microfabrication et fonctionnalisation de surfaces**, **hydrodynamique aux petites échelles et matière molle**, **lab-on-a-chip et chimie en flux**, **biochimie en gouttelettes, analyse unicellulaire et organes-sur-puce**. Voir le [cursus complet et l'équipe enseignante](/curriculum/).
+Thématiques principales : **microfabrication et fonctionnalisation de surfaces**, **hydrodynamique aux petites échelles et matière molle**, **lab-on-a-chip et chimie en flux**, **biochimie en gouttelettes, analyse unicellulaire et organes-sur-puce**. Voir le [cursus complet et l'équipe enseignante](/cursus/).
 
 <div class="gallery">
   <figure><img src="/assets/images/practicals2.jpg" alt="Poste d'imagerie" loading="lazy"><figcaption>Poste d'imagerie</figcaption></figure>

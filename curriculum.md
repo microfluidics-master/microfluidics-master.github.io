@@ -5,6 +5,8 @@ permalink: /curriculum/
 hide_title: true
 sitemap: false
 noindex: true
+lang: en
+lang_alt: /cursus/
 ---
 
 ## Curriculum & faculty

@@ -17,7 +17,6 @@ plugins:
 # Build settings
 markdown: kramdown
 highlighter: rouge
-paginate: 6
 
 
 # Minima options (optional)

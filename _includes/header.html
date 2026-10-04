@@ -1,8 +1,12 @@
 <div class="topbar">
   <div class="wrapper">
-    <span class="topbar-left">★ Université PSL · Sorbonne Université · Université Paris Cité · Université Paris-Saclay</span>
+    <span class="topbar-left">★ <a href="https://psl.eu">Université PSL</a> · <a href="https://www.sorbonne-universite.fr">Sorbonne Université</a> · <a href="https://u-paris.fr">Université Paris Cité</a> · <a href="https://www.universite-paris-saclay.fr">Université Paris-Saclay</a></span>
     <span class="topbar-right">
-      <span class="lang-switch" aria-label="Language"><a href="{{ '/francais/' | relative_url }}"{% if page.url == '/francais/' %} class="on"{% endif %}>FR</a> | <a href="{{ '/english/' | relative_url }}"{% if page.url == '/english/' %} class="on"{% endif %}>EN</a></span>
+      <span class="lang-switch" aria-label="Language">
+        {%- assign fr_url = '/francais/' -%}{%- assign en_url = '/english/' -%}
+        {%- if page.lang == 'en' %}{% assign en_url = page.url %}{% if page.lang_alt %}{% assign fr_url = page.lang_alt %}{% endif %}{% endif -%}
+        {%- if page.lang == 'fr' %}{% assign fr_url = page.url %}{% if page.lang_alt %}{% assign en_url = page.lang_alt %}{% endif %}{% endif -%}
+        <a href="{{ fr_url | relative_url }}"{% if page.lang == 'fr' %} class="on"{% endif %}>FR</a> | <a href="{{ en_url | relative_url }}"{% if page.lang == 'en' %} class="on"{% endif %}>EN</a></span>
       <a href="{{ '/calendar/' | relative_url }}">🔒 Student area</a>
       <a href="https://www.institut-pgg.fr/">IPGG ↗</a>
     </span>
@@ -25,7 +29,11 @@
         <a class="nav-item{% if page.url == '/microfluidics/' %} active{% endif %}" href="{{ '/microfluidics/' | relative_url }}">Microfluidics</a>
         <a class="nav-item{% if page.url == '/alumni/' %} active{% endif %}" href="{{ '/alumni/' | relative_url }}">Alumni</a>
         <a class="nav-item{% if page.url == '/resources/' %} active{% endif %}" href="{{ '/resources/' | relative_url }}">Resources</a>
+        {%- if page.lang == 'fr' %}
+        <a class="nav-item nav-cta" href="{{ '/candidater/' | relative_url }}">Candidater</a>
+        {%- else %}
         <a class="nav-item nav-cta" href="{{ '/apply/' | relative_url }}">Apply</a>
+        {%- endif %}
       </div>
     </nav>
   </div>

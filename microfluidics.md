@@ -3,90 +3,102 @@ title: "Microfluidics ?"
 layout: page
 permalink: /microfluidics/
 hide_title: true
+lang: en
 redirect_from:
   - /microfluidics-by-example/
 ---
-**Microfluidics** is an interdisciplinary field at the crossroads of **physics**, **chemistry**, **biology**, and **engineering**.  
-It explores how fluids behave, mix, and react in **miniaturized systems** — from droplets a few micrometers wide to complex **organ-on-chip** models.  
 
-Beyond its fundamental aspects, microfluidics has become a powerful **enabling technology** for applications as diverse as **drug discovery**, **diagnostics**, **environmental monitoring**, **soft-matter engineering**, **materials synthesis**, and **sustainable energy**.  
+**Microfluidics** is the science and technology of fluids in **miniaturized systems**, from droplets a few micrometers wide to complex **organ-on-chip** models. It sits at the crossroads of **physics, chemistry, biology and engineering**.
 
-By combining **precise flow control**, **advanced microfabrication**, and **interfacial science**, microfluidics offers a unique platform to **mimic biological processes**, **accelerate chemical reactions**, and **design new materials** at the mesoscale.
+By combining **precise flow control**, **advanced microfabrication** and **interfacial science**, it offers a platform to **mimic biological processes**, **accelerate chemical reactions** and **design new materials** at the mesoscale. Its applications range from **drug discovery** and **diagnostics** to **environmental monitoring**, **materials synthesis** and **sustainable energy**.
 
-## Some examples
+<p class="page-cta"><a class="btn" href="/english/">The Master</a> <a class="btn btn-ghost" href="/resources/">Learning resources</a></p>
 
-### 🌈 High-throughput droplet sorting by fluorescence:
+## Microfluidics in action
 
- A microfluidic device routes droplets based on their fluorescence signal, reflecting the progress of an encapsulated biochemical reaction.  
+<div class="app-grid" markdown="1">
 
-![Microfluidic sorting device](assets/images/lbc-sorting.gif)
+<div class="app" markdown="1">
+![Microfluidic sorting device](/assets/images/lbc-sorting.gif)
 
-*Source: [LBC, ESPCI](http://www.lbc.espci.fr)*
+### Droplet sorting
+A device routes droplets according to their fluorescence, which reflects the progress of a biochemical reaction encapsulated in each droplet.
 
-### 🫀 Organ-on-a-Chip
-Microfluidic devices that reproduce the structure and function of living tissues.
+<p class="src">Source: <a href="http://www.lbc.espci.fr">LBC, ESPCI</a></p>
+</div>
 
-**Examples**
-- **Gut-on-a-chip**: models microbiota interactions, nutrient absorption, and inflammation.  
+<div class="app" markdown="1">
+![Gut on a chip](/assets/images/gut_on_chip.jpg)
 
-> *Goal: replace or complement animal testing and provide personalized medicine tools.*
+### Organ-on-a-chip
+Devices that reproduce the structure and function of living tissues. Example: **gut-on-a-chip**, to model microbiota interactions, nutrient absorption and inflammation.
 
-![Gut on a chip](assets/images/gut_on_chip.jpg)
+*Goal: replace or complement animal testing and provide tools for personalized medicine.*
 
-*Source: [Le Journal du CNRS](https://lejournal.cnrs.fr/articles/stephanie-descroix-la-biologiste-qui-met-nos-organes-sur-puce)*
-### 🌊 Blue Energy
-Harvesting renewable energy from salinity gradients using micro- and nano-fluidic channels.
+<p class="src">Source: <a href="https://lejournal.cnrs.fr/articles/stephanie-descroix-la-biologiste-qui-met-nos-organes-sur-puce">Le Journal du CNRS</a></p>
+</div>
 
-**Examples**
-- **Nanoporous membranes**: control ion transport for optimized energy conversion.  
+<div class="app" markdown="1">
+![INOD de Sweetch Energy](/assets/images/Energie_Bleue.png)
 
-> *Goal: design sustainable and carbon-free energy sources from natural concentration gradients.*
+### Blue energy
+Harvesting renewable energy from salinity gradients with micro- and nanofluidic channels. Example: **nanoporous membranes** that control ion transport for efficient energy conversion.
 
-![INOD de Sweetch Energy](assets/images/Energie_Bleue.png)
+*Goal: sustainable, carbon-free energy from natural concentration gradients.*
 
-*Source: [Le Journal du CNRS](https://lejournal.cnrs.fr/articles/stephanie-descroix-la-biologiste-qui-met-nos-organes-sur-puce)*
-### ⚗️ Flow Chemistry
-Performing chemical reactions in continuously flowing microreactors instead of batch flasks.
+<p class="src">Source: <a href="https://lejournal.cnrs.fr/articles/stephanie-descroix-la-biologiste-qui-met-nos-organes-sur-puce">Le Journal du CNRS</a></p>
+</div>
 
-**Examples**
-- **Continuous synthesis** of pharmaceuticals with high precision and safety.  
-- **Photochemical and electrochemical processes** enhanced by efficient light or current delivery.  
+<div class="app" markdown="1">
+![Microfluidic plasma microreactor](/assets/images/microfluidique_plasma.jpg)
 
-> *Goal: make chemistry safer, faster, and more sustainable.*
+### Flow chemistry
+Chemical reactions in continuously flowing microreactors instead of batch flasks: **continuous synthesis** of pharmaceuticals with high precision and safety, and **photochemical or electrochemical processes** with efficient light or current delivery.
 
-![Microfluidic plasma microreactor](assets/images/microfluidique_plasma.jpg)
+*Goal: make chemistry safer, faster and more sustainable.*
 
-*Source: [Le Journal du CNRS - See video](https://lejournal.cnrs.fr/videos/la-nouvelle-chimie-des-plasmas)*
-### 🧫 Organoids & Microfluidics
-3D mini-tissues derived from stem cells, cultured and perfused within microfluidic environments.
+<p class="src">Source: <a href="https://lejournal.cnrs.fr/videos/la-nouvelle-chimie-des-plasmas">Le Journal du CNRS (video)</a></p>
+</div>
 
-**Examples**
-- **Brain organoids on chip**: to study neurodevelopment and disease.  
-- **Tumor spheroids**: for testing anticancer drugs in realistic conditions.  
+<div class="app" markdown="1">
 
-> *Goal: bridge the gap between cell culture and real organs by recreating physiological microenvironments.*
-*Microfluidics is thus not only a scientific discipline, but also a versatile platform enabling innovation across life sciences, materials, and energy.*
-## Videos
+### Organoids and microfluidics
+3D mini-tissues derived from stem cells, cultured and perfused in microfluidic environments: **brain organoids on chip** to study neurodevelopment and disease, and **tumor spheroids** to test anticancer drugs in realistic conditions.
 
-Below are three introductory videos : 
+*Goal: bridge the gap between cell culture and real organs by recreating physiological microenvironments.*
+</div>
 
-### 1) Aventures Microfluidique #1 : La physique microscopique
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oPJfXSb5QYw?si=Eo1lcLlTpA8tE805"
-title="Aventures Microfluidique #1 : La physique microscopique" frameborder="0" allowfullscreen></iframe>
+</div>
 
-### 2) Aventures Microfluidique #2 : Créer un monde micrométrique
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7mptrk-Pmts?si=nfzwQrLkR8puyvBY"
-title="Aventures Microfluidique #2 : Créer un monde micrométrique" frameborder="0" allowfullscreen></iframe>
+## Introductory videos
 
-### 3) Aventures Microfluidique #3 : Les puces microfluidiques
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wyWGcL3_d00?si=Mgqs3AjsX5smsE5x"
-title="Aventures Microfluidique #3 : Les puces microfluidiques" frameborder="0" allowfullscreen></iframe>
+Three short videos (in French) from the *Aventures Microfluidique* series.
 
-## Links
+<div class="video-grid" markdown="1">
 
-- [Physics of Complex Systems Master](https://physics-complex-systems.fr)  
-- [PSL – Sciences et Génie des Matériaux Master](https://www.psl.eu)
-## Friends & Partners
+<div markdown="1">
+<iframe src="https://www.youtube.com/embed/oPJfXSb5QYw?si=Eo1lcLlTpA8tE805" title="Aventures Microfluidique #1 : La physique microscopique" frameborder="0" allowfullscreen></iframe>
 
-- [Institut Pierre-Gilles de Gennes](https://www.institut-pgg.fr/)  
-- [Microscale Affairs – IPGG seminar series](https://microscaleaffairs.wixsite.com)
+**#1 The physics of the microscopic world**
+</div>
+
+<div markdown="1">
+<iframe src="https://www.youtube.com/embed/7mptrk-Pmts?si=nfzwQrLkR8puyvBY" title="Aventures Microfluidique #2 : Créer un monde micrométrique" frameborder="0" allowfullscreen></iframe>
+
+**#2 Creating a micrometric world**
+</div>
+
+<div markdown="1">
+<iframe src="https://www.youtube.com/embed/wyWGcL3_d00?si=Mgqs3AjsX5smsE5x" title="Aventures Microfluidique #3 : Les puces microfluidiques" frameborder="0" allowfullscreen></iframe>
+
+**#3 Microfluidic chips**
+</div>
+
+</div>
+
+## Go further
+
+- [Learning resources: books, articles and tutorials](/resources/)
+- [Physics of Complex Systems Master](https://physics-complex-systems.fr) and [PSL Materials Science and Engineering Master](https://www.psl.eu)
+- [Institut Pierre-Gilles de Gennes](https://www.institut-pgg.fr/)
+- [Microscale Affairs](https://microscaleaffairs.wixsite.com), the IPGG seminar series

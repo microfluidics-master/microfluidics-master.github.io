@@ -89,13 +89,16 @@ a:hover { color: var(--ipgg-blue-dark); }
 .post-content h1, .post-content h2, .post-content h3, .post-content h4 {
   font-family: "Montserrat", sans-serif; color: var(--ipgg-blue); font-weight: 700; letter-spacing: 0;
 }
-.post-content h3 { font-size: 1.45rem; }
-.post-content h4 { font-size: 1.1rem; }
-/* IPGG-style section title block (white on blue) for h2 */
+.post-content h3 { font-size: 1.2rem; margin: 1.6rem 0 .5rem; }
+.post-content h4 { font-size: 1.05rem; }
+/* Section titles: light style (blue text, orange accent bar) */
 .post-content h2 {
-  display: inline-block; background: var(--ipgg-blue); color: #fff; text-transform: uppercase;
-  font-size: 1.35rem; font-weight: 700; padding: .45rem 1rem; margin-top: 1.8rem;
+  display: block; background: none; color: var(--ipgg-blue); text-transform: none;
+  font-size: 1.5rem; font-weight: 700; line-height: 1.25;
+  margin: 2.4rem 0 .9rem; padding: 0 0 .35rem; border-bottom: 2px solid #e6e6e6; position: relative;
 }
+.post-content h2::after { content: ""; position: absolute; left: 0; bottom: -2px; width: 56px; height: 2px; background: var(--ipgg-orange); }
+.post-content h2:first-child { margin-top: 0; }
 .post-content hr { border: 0; border-top: 1px solid #e6e6e6; margin: 2rem 0; }
 .post-content table { border-collapse: collapse; width: 100%; }
 .post-content th { background: var(--ipgg-blue); color: #fff; }
@@ -113,6 +116,10 @@ blockquote { border-left: 4px solid var(--ipgg-orange); color: var(--text); font
 .btn:hover, button:hover { background: var(--ipgg-blue-dark); text-decoration: none; }
 
 /* ---------- Page helpers ---------- */
+.num-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: .75rem; margin: 1.2rem 0 1.5rem; padding: 1.2rem; background: var(--bg-soft); border-top: 4px solid var(--ipgg-blue); text-align: center; }
+.num-grid .num { display: block; font-size: 1.9rem; font-weight: 700; line-height: 1.1; color: var(--ipgg-blue); }
+.num-grid .lbl { display: block; font-size: .78rem; font-weight: 600; color: var(--muted); }
+@media (max-width: 700px) { .num-grid { grid-template-columns: repeat(2, 1fr); } }
 .page-cta { margin: 1.5rem 0; }
 .page-cta .btn { margin: 0 .5rem .5rem 0; }
 .page-cta .btn-ghost { background: transparent; color: var(--ipgg-blue) !important; border: 2px solid var(--ipgg-blue); }

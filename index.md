@@ -2,6 +2,8 @@
 layout: page
 title: "Home"
 hide_title: true
+lang: en
+lang_alt: /accueil/
 ---
 
 <img class="home-banner" src="/assets/images/Bandeau.jpg" alt="Microscope and Microfluidic Chip">

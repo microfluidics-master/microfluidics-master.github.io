@@ -3,6 +3,8 @@ layout: page
 title: English
 permalink: /english/
 hide_title: true
+lang: en
+lang_alt: /francais/
 redirect_from:
   - /degree-information/
   - /faculty/
@@ -11,106 +13,84 @@ redirect_from:
   - /about/
   - /syllabus/
 ---
-The **Master in Microfluidics** (Master 2) is an **interdisciplinary program** supported by the [Institut Pierre-Gilles de Gennes (IPGG)](https://www.institut-pgg.fr/).  
-It is oriented towards **innovation, research, and industrial applications**, and offers one of the fastest ways to connect with the **start-up ecosystem** in the field of microfluidics.
 
-This program is part of two internationally recognized Master's degrees:
+The **Master 2 in Microfluidics & Miniaturization** is a one-year, interdisciplinary program at the interface of physics, chemistry and biology, supported by the [Institut Pierre-Gilles de Gennes (IPGG)](https://www.institut-pgg.fr/). It is built around **research, innovation and industrial applications**, and is one of the fastest ways into the microfluidics **start-up ecosystem**.
 
-- **[Physics of Complex Systems](https://physics-complex-systems.fr/)** (Sorbonne Université, Université Paris Cité, Université Paris-Saclay) – for students with a physics background.  
-- **[Materials Science and Engineering](https://psl.eu/en/education/master-s-degree-materials-science-and-engineering)** (Université PSL) – for students with chemistry or biology backgrounds.  
+<div class="num-grid">
+  <div><span class="num">60</span><span class="lbl">ECTS, September to June/July</span></div>
+  <div><span class="num">2</span><span class="lbl">Master's degrees, one program</span></div>
+  <div><span class="num">5-6</span><span class="lbl">month research internship</span></div>
+  <div><span class="num">Paris</span><span class="lbl">Latin Quarter, 5th arrondissement</span></div>
+</div>
 
-## Why join the Microfluidics program?
+<p class="page-cta"><a class="btn" href="/apply/">How to apply</a> <a class="btn btn-ghost" href="/curriculum/">Curriculum &amp; faculty</a></p>
 
-The program provides a **unique combination** of advanced scientific training, cutting-edge research experience, and exposure to innovation.  
-Two key strengths define the student experience:
+## Two Master's degrees, one program
 
-- **Excellence in academic teaching** with a highly interdisciplinary curriculum.  
-- **Hands-on research & technological training**, directly linked to academic labs and industrial innovation.  
+The program is part of two internationally recognized degrees. Your home degree depends on your background.
 
-Students are trained to think like scientists and engineers while solving real-world problems. They benefit from:
+<div class="glance" markdown="1">
+<div markdown="1">
 
-- A faculty of internationally recognized experts  
-- Access to state-of-the-art research platforms  
-- A strong culture of innovation through collaborations with start-ups and incubators  
+### Physics of Complex Systems
+*For physics backgrounds.*
+
+Sorbonne Université, Université Paris Cité, Université Paris-Saclay.
+
+[Master's website](https://physics-complex-systems.fr/)
+
+</div>
+<div markdown="1">
+
+### Materials Science and Engineering
+*For chemistry and biology backgrounds.*
+
+Université PSL.
+
+[Master's website](https://psl.eu/en/education/master-s-degree-materials-science-and-engineering)
+
+</div>
+</div>
+
+## Why join?
+
+A **unique combination** of advanced scientific training, hands-on technology and exposure to innovation. You learn to think like a scientist and an engineer while solving real problems.
+
+- **Interdisciplinary teaching** by internationally recognized experts in physics, chemistry, biology and engineering
+- **Hands-on training** from the first weeks, on the IPGG technological platform and in academic and industrial labs
+- **Innovation culture**: regular meetings with start-ups and industrial partners, many of which grew out of IPGG labs
+
+## How the year works
+
+<div class="steps" markdown="1">
+
+<div class="step" markdown="1">
+**September to January**
+
+**Semester 1: courses and project.** Lectures and intensive lab classes, plus a short research project in an IPGG lab.
+</div>
+
+<div class="step" markdown="1">
+**February to June/July**
+
+**Semester 2: Master's thesis.** A 5 to 6 month research internship in academia or industry, in France or abroad, defended before a jury.
+</div>
+
+</div>
+
+Core topics: **microfabrication and surface functionalization**, **microscale hydrodynamics and soft matter**, **lab-on-a-chip and flow chemistry**, **droplet biochemistry, single-cell analysis and organ-on-chip**. See the [full curriculum and faculty](/curriculum/).
+
+![Pictures of the practicals](/assets/images/Montage-Small.jpg)
+
+## Innovation and industry
+
+Microfluidics drives **deep-tech entrepreneurship**. The program has close ties with the **PC'Up** incubator and the **Tremplin Carnot IPGG TT** technology transfer office. Students meet start-ups and industrial partners during regular events.
 
 ## A unique location
 
-Student life takes place in the **heart of Paris**, within the Latin Quarter – a historical hub of French science.  
-The IPGG campus is within walking distance of world-class institutions such as:
+You study in the **heart of Paris**, in the Latin Quarter, a historical hub of French science. The IPGG campus is within walking distance of Sorbonne Université, Institut Curie, École Normale Supérieure, Chimie ParisTech and ESPCI Paris, and Paris gives direct access to Université Paris-Saclay, Université Paris Cité and major innovation clusters.
 
-- Sorbonne Université  
-- Institut Curie  
-- École Normale Supérieure  
-- Chimie ParisTech  
-- ESPCI Paris  
+## Useful links
 
-This geographical concentration fosters **constant interdisciplinary exchange**.  
-Paris itself is a **thriving multicultural hub of innovation** and research, offering direct access to **Université Paris-Saclay, Université Paris Cité, and innovation clusters**.  
-
-## Curriculum Overview
-
-The program runs from **September to June/July** and is worth **60 ECTS**.
-
-- **Courses (30 ECTS)** → Core & specialized classes in physics, chemistry, biology, and engineering.  
-- **Research Project (3 ECTS)** → A first-semester project in an IPGG lab.  
-- **Master’s Thesis & Internship (30 ECTS)** → A 5–6 month research internship, defended before a jury.  
-
-### Core Topics
-
-**Technology**  
-- Micro- and nanofabrication: silicon, PDMS, plastics, flexible electronics  
-- Surface functionalization (molecular & biomolecular methods)  
-- Characterization: microscopy, flow cytometry, rheology, single-molecule imaging  
-
-**Physics**  
-- Hydrodynamics at the microscale, nanofluidics  
-- Capillarity, wetting, soft matter & interfaces  
-
-**Lab-on-a-chip**  
-- Continuous & segmented flow chemistry  
-- Bioassays & analytical microdevices  
-
-**Biology & Biochemistry**  
-- Droplet-based biochemistry & single-cell analysis  
-- Single-cell & collective cell behavior in microdevices  
-- Organ-on-chip approaches  
-
-## Hands-on Training
-
-From the very start, students receive **intensive lab training** on the IPGG technological platform, learning to **design, fabricate, and manipulate microfluidic devices**.  
-
-This foundation is reinforced by:  
-- A short research project in semester 1.  
-- A Master’s thesis (30 ECTS) in semester 2, carried out in academia or industry, in France or abroad.  
-
-![Pictures of the practicals](assets/images/Montage-Small.jpg)
-
-## Innovation & Industry Connection
-
-Microfluidics is a driver of **deep-tech entrepreneurship**.  
-The program benefits from strong ties with innovation clusters:  
-
-- PC’Up incubator  
-- Tremplin Carnot IPGG TT office  
-
-Students meet start-ups and industrial partners during regular events, and many companies have directly emerged from IPGG labs.  
-
-## Faculty
-
-Teaching is provided by **leading researchers** from across Paris, including:  
-
-- **Institut Curie**: M. Thery, P. Silberzan, B. Hajj, S. Descroix, S. Coscoy, L. Muller  
-- **Sorbonne Université**: H. de Maleprade  
-- **ENS Paris-Saclay**: B. Le Pioufle, K. Perez-Totalla 
-- **ESPCI Paris**: N. Brémond, D. Quéré, C. Trégouet, M. Ardre, J. McGraw  
-- **Chimie ParisTech**: M. Tatoulian, S. Ognier 
-- **École Normale Supérieure**: M. Morel, J. Fattaccioli  
-- **Université Paris Cité / Paris Diderot**: A. Lindner  
-- **Université Paris-Saclay**: B. Le Pioufle  
-
-## Useful Links
-
-- Official website: [microfluidics-master.fr](http://microfluidics-master.fr)  
-- Institut Pierre-Gilles de Gennes: [ipgg.fr](https://www.institut-pgg.fr/)
-
-<p class="page-cta"><a class="btn" href="/apply/">How to apply</a> <a class="btn btn-ghost" href="/alumni/">Where our alumni go</a></p>
+- Official website: [microfluidics-master.fr](https://microfluidics-master.fr)
+- Institut Pierre-Gilles de Gennes: [institut-pgg.fr](https://www.institut-pgg.fr/)

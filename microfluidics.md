@@ -70,6 +70,8 @@ Chemical reactions in continuously flowing microreactors instead of batch flasks
 *In situ* differentiation and vascularization of an array of cerebral **organoids** on a micro-/nano-engineered substrate reversibly integrable into a microfluidic device.
 
 *Goal: To develop a brain-on-a-chip platform integrating vascularized cerebral organoids with perfusable microvessels exposed to controlled microfluidic flow, providing a physiologically relevant model for investigating brain development and drug delivery.*
+
+<p class="src">Source : <a href="https://cpcv.chimie.ens.fr/people/yamada-ayako">A. Yamada (CPCV, ENS)</a></p>
 </div>
 
 </div>

@@ -67,7 +67,7 @@ Différenciation et vascularisation *in situ* d’un réseau d’**organoïdes**
 
 *Objectif : Développer une plateforme « cerveau sur puce » intégrant des organoïdes cérébraux vascularisés dotés de microvaisseaux perfusables exposés à un écoulement microfluidique contrôlé, offrant ainsi un modèle physiologiquement pertinent pour l’étude du développement cérébral et de l’administration de médicaments.*
 
-Traduit avec DeepL.com (version gratuite)
+<p class="src">Source : <a href="https://cpcv.chimie.ens.fr/people/yamada-ayako">A. Yamada (CPCV, ENS)</a></p>
 </div>
 
 </div>

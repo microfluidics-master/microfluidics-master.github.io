@@ -63,11 +63,13 @@ Chemical reactions in continuously flowing microreactors instead of batch flasks
 </div>
 
 <div class="app" markdown="1">
+![Vascularization of cerebral organoids](/assets/images/CerebralOrganoids.jpg)
+
 
 ### Organoids and microfluidics
-3D mini-tissues derived from stem cells, cultured and perfused in microfluidic environments: **brain organoids on chip** to study neurodevelopment and disease, and **tumor spheroids** to test anticancer drugs in realistic conditions.
+*In situ* differentiation and vascularization of an array of cerebral **organoids** on a micro-/nano-engineered substrate reversibly integrable into a microfluidic device.
 
-*Goal: bridge the gap between cell culture and real organs by recreating physiological microenvironments.*
+*Goal: To develop a brain-on-a-chip platform integrating vascularized cerebral organoids with perfusable microvessels exposed to controlled microfluidic flow, providing a physiologically relevant model for investigating brain development and drug delivery.*
 </div>
 
 </div>

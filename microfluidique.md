@@ -60,11 +60,14 @@ Des réactions chimiques menées dans des microréacteurs à écoulement continu
 </div>
 
 <div class="app" markdown="1">
+![Vascularisation d'organoides cérébraux](/assets/images/CerebralOrganoids.jpg)
 
 ### Organoïdes et microfluidique
-Des mini-tissus 3D issus de cellules souches, cultivés et perfusés dans des environnements microfluidiques : **organoïdes cérébraux sur puce** pour étudier le neurodéveloppement et les maladies, et **sphéroïdes tumoraux** pour tester des médicaments anticancéreux dans des conditions réalistes.
+Différenciation et vascularisation *in situ* d’un réseau d’**organoïdes** cérébraux sur un substrat issu de la micro- et nano-ingénierie, intégrable de manière réversible dans un dispositif microfluidique.
 
-*Objectif : combler l'écart entre la culture cellulaire et les organes réels en recréant des microenvironnements physiologiques.*
+*Objectif : Développer une plateforme « cerveau sur puce » intégrant des organoïdes cérébraux vascularisés dotés de microvaisseaux perfusables exposés à un écoulement microfluidique contrôlé, offrant ainsi un modèle physiologiquement pertinent pour l’étude du développement cérébral et de l’administration de médicaments.*
+
+Traduit avec DeepL.com (version gratuite)
 </div>
 
 </div>

@@ -70,6 +70,39 @@ Différenciation et vascularisation *in situ* d’un réseau d’**organoïdes**
 <p class="src">Source : <a href="https://cpcv.chimie.ens.fr/people/yamada-ayako">A. Yamada (CPCV, ENS)</a></p>
 </div>
 
+<div class="app" markdown="1">
+![Microtubules et moteurs moléculaires confinés sur des bicouches lipidiques micro-structurées](/assets/images/active_matter.gif)
+
+### Matière active
+Une matière active constituée de **microtubules** et de **deux types de moteurs moléculaires de polarité opposée**. Les moteurs opposés se déplacent le long des microtubules et forment des réservoirs ségrégés qui, confinés sur des **bicouches lipidiques micro-structurées**, partitionnent l'espace en configurations polaires, bipolaires ou multipolaires.
+
+*Objectif : reconstituer des systèmes minimaux capables de révéler les principes qui définissent la forme des cellules et l'organisation intracellulaire.*
+
+<p class="src">Crédit : Bhagyanath Suresh, CytoMorpho Lab, ESPCI/CEA</p>
+</div>
+
+<div class="app" markdown="1">
+![Cellule immunitaire au contact d'une goutte d'huile recouverte d'anticorps, dans un piège microfabriqué](/assets/images/immunology.jpg)
+
+### Immunologie
+Une cellule immunitaire au contact d'une **goutte d'huile recouverte d'anticorps**, maintenue dans un piège microfabriqué. À gauche : fond clair. À droite : fluorescence, avec les anticorps à l'interface de la goutte en rouge et le noyau de la cellule en bleu.
+
+*Objectif : des pièges à cellule unique pour montrer comment les cellules immunitaires reconnaissent et englobent des gouttes recouvertes d'anticorps.*
+
+<p class="src">Crédit : L. Pinon, MesoBioLab (UMR CPCV, IPGG)</p>
+</div>
+
+<div class="app" markdown="1">
+![Derme sur puce vascularisé : dispositif, schéma et imagerie CD31/phalloïdine](/assets/images/vascularized_oc.jpg)
+
+### Organe sur puce vascularisé
+Organe sur puce vascularisé grâce à des **technologies cellulaires sans (bio)matériau**. La vascularisation repose sur l'**auto-assemblage endothélial** de type *in vivo*. Exemple : **derme sur puce**.
+
+*Objectif : fournir des systèmes microphysiologiques de pertinence biologique et clinique accrue.*
+
+<p class="src">Source : C. Aimé, L. Muller, MesoBioLab (CPCV, ENS)</p>
+</div>
+
 </div>
 
 ## Vidéos d'introduction

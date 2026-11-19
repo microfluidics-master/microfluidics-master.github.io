@@ -74,6 +74,39 @@ Chemical reactions in continuously flowing microreactors instead of batch flasks
 <p class="src">Source : <a href="https://cpcv.chimie.ens.fr/people/yamada-ayako">A. Yamada (CPCV, ENS)</a></p>
 </div>
 
+<div class="app" markdown="1">
+![Microtubules and molecular motors confined on micropatterned lipid bilayers](/assets/images/active_matter.gif)
+
+### Active matter
+An active matter made of **microtubules** and **two types of molecular motors of opposite polarity**. The opposite motors travel along microtubules and form segregated reservoirs, which, when confined on **micropatterned lipid bilayers**, partition space into polar, bipolar or multipolar configurations.
+
+*Goal: reconstitute minimal systems capable of revealing the principles defining cell shape and intracellular organization.*
+
+<p class="src">Credit: Bhagyanath Suresh, CytoMorpho Lab, ESPCI/CEA</p>
+</div>
+
+<div class="app" markdown="1">
+![Immune cell in contact with an antibody-coated oil droplet in a microfabricated trap](/assets/images/immunology.jpg)
+
+### Immunology
+An immune cell in contact with an **antibody-coated oil droplet** held in a microfabricated trap. Left: brightfield. Right: fluorescence, with antibodies at the droplet interface in red and the cell nucleus in blue.
+
+*Goal: single-cell traps that show how immune cells recognize and engulf antibody-coated droplets.*
+
+<p class="src">Credit: L. Pinon, MesoBioLab (UMR CPCV, IPGG)</p>
+</div>
+
+<div class="app" markdown="1">
+![Vascularized dermis-on-a-chip: device, schematic and CD31/phalloidin imaging](/assets/images/vascularized_oc.jpg)
+
+### Vascularized organ-on-a-chip
+Vascularized organ-on-chip through **(bio)material-free cell technologies**. Vascularization relies on *in vivo*-like **endothelial self-assembly**. Example: **dermis-on-a-chip**.
+
+*Goal: provide microphysiological systems of improved biological and clinical relevance.*
+
+<p class="src">Source: C. Aimé, L. Muller, MesoBioLab (CPCV, ENS)</p>
+</div>
+
 </div>
 
 ## Introductory videos
